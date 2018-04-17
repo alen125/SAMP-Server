@@ -1,0 +1,4947 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:41:08] filterscripts = ""  (string)
+[13:41:08] 
+[13:41:08] Server Plugins
+[13:41:08] --------------
+[13:41:08]  Loaded 0 plugins.
+
+[13:41:08] 
+[13:41:08] Filterscripts
+[13:41:08] ---------------
+[13:41:08]   Loaded 0 filterscripts.
+
+[13:41:08] 
+----------------------------------
+[13:41:08] ======= Null RP by Hawk ============
+[13:41:08] ------------------------------------
+
+[13:41:08] Number of vehicle models: 0
+[13:42:12] [connection] 127.0.0.1:61731 requests connection cookie.
+[13:42:13] [connection] incoming connection: 127.0.0.1:61731 id: 0
+[13:42:13] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[13:42:35] [part] Hawk_Gotti has left the server (0:1)
+Console input: stop
+Console input: /stop
+Console input: /q
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:46:50] filterscripts = ""  (string)
+[13:46:50] 
+[13:46:50] Server Plugins
+[13:46:50] --------------
+[13:46:50]  Loaded 0 plugins.
+
+[13:46:50] 
+[13:46:50] Filterscripts
+[13:46:50] ---------------
+[13:46:50]   Loaded 0 filterscripts.
+
+[13:46:50] 
+----------------------------------
+[13:46:50] ======= Null RP by Hawk ============
+[13:46:50] ------------------------------------
+
+[13:46:50] Number of vehicle models: 0
+[13:47:11] [connection] 127.0.0.1:57955 requests connection cookie.
+[13:47:12] [connection] incoming connection: 127.0.0.1:57955 id: 0
+[13:47:13] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[13:56:08] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:59:01] filterscripts = ""  (string)
+[13:59:01] 
+[13:59:01] Server Plugins
+[13:59:01] --------------
+[13:59:01]  Loaded 0 plugins.
+
+[13:59:01] 
+[13:59:01] Filterscripts
+[13:59:01] ---------------
+[13:59:01]   Loaded 0 filterscripts.
+
+[13:59:01] 
+----------------------------------
+[13:59:01] ======= Null RP by Hawk ============
+[13:59:01] ------------------------------------
+
+[13:59:01] Number of vehicle models: 0
+[13:59:50] [connection] 127.0.0.1:61285 requests connection cookie.
+[13:59:51] [connection] incoming connection: 127.0.0.1:61285 id: 0
+[13:59:51] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:00:09] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:02:57] filterscripts = ""  (string)
+[14:02:57] 
+[14:02:57] Server Plugins
+[14:02:57] --------------
+[14:02:57]  Loaded 0 plugins.
+
+[14:02:57] 
+[14:02:57] Filterscripts
+[14:02:57] ---------------
+[14:02:57]   Loaded 0 filterscripts.
+
+[14:02:57] 
+----------------------------------
+[14:02:57] ======= Null RP by Hawk ============
+[14:02:57] ------------------------------------
+
+[14:02:57] Number of vehicle models: 0
+[14:03:18] [connection] 127.0.0.1:50403 requests connection cookie.
+[14:03:19] [connection] incoming connection: 127.0.0.1:50403 id: 0
+[14:03:19] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:03:33] [part] Hawk_Gotti has left the server (0:1)
+[14:03:53] [connection] 127.0.0.1:50405 requests connection cookie.
+[14:03:54] [connection] incoming connection: 127.0.0.1:50405 id: 0
+[14:03:54] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:04:03] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:05:22] filterscripts = ""  (string)
+[14:05:22] 
+[14:05:22] Server Plugins
+[14:05:22] --------------
+[14:05:22]  Loaded 0 plugins.
+
+[14:05:22] 
+[14:05:22] Filterscripts
+[14:05:22] ---------------
+[14:05:22]   Loaded 0 filterscripts.
+
+[14:05:22] 
+----------------------------------
+[14:05:22] ======= Null RP by Hawk ============
+[14:05:22] ------------------------------------
+
+[14:05:22] Number of vehicle models: 0
+[14:05:41] [connection] 127.0.0.1:53978 requests connection cookie.
+[14:05:42] [connection] incoming connection: 127.0.0.1:53978 id: 0
+[14:05:42] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:09:06] [part] Hawk_Gotti has left the server (0:1)
+[14:09:30] [connection] 127.0.0.1:60777 requests connection cookie.
+[14:09:31] [connection] incoming connection: 127.0.0.1:60777 id: 0
+[14:09:31] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:09:53] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:17] filterscripts = ""  (string)
+[14:20:17] 
+[14:20:17] Server Plugins
+[14:20:17] --------------
+[14:20:17]  Loaded 0 plugins.
+
+[14:20:17] 
+[14:20:17] Filterscripts
+[14:20:17] ---------------
+[14:20:17]   Loaded 0 filterscripts.
+
+[14:20:17] 
+----------------------------------
+[14:20:17] ======= Null RP by Hawk ============
+[14:20:17] ------------------------------------
+
+[14:20:17] Number of vehicle models: 0
+[14:20:21] [connection] 127.0.0.1:62258 requests connection cookie.
+[14:20:22] [connection] incoming connection: 127.0.0.1:62258 id: 0
+[14:20:22] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:20:33] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:58:42] filterscripts = ""  (string)
+[15:58:42] 
+[15:58:42] Server Plugins
+[15:58:42] --------------
+[15:58:42]  Loaded 0 plugins.
+
+[15:58:42] 
+[15:58:42] Filterscripts
+[15:58:42] ---------------
+[15:58:42]   Loaded 0 filterscripts.
+
+[15:58:42] Script[gamemodes/nullRP.amx]: Run time error 19: "File or function is not found"
+[15:58:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:00:40] filterscripts = ""  (string)
+[16:00:40] 
+[16:00:40] Server Plugins
+[16:00:40] --------------
+[16:00:40]  Loaded 0 plugins.
+
+[16:00:40] 
+[16:00:40] Filterscripts
+[16:00:40] ---------------
+[16:00:40]   Loaded 0 filterscripts.
+
+[16:00:40] Script[gamemodes/nullRP.amx]: Run time error 19: "File or function is not found"
+[16:00:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:02:42] filterscripts = ""  (string)
+[16:02:42] 
+[16:02:42] Server Plugins
+[16:02:42] --------------
+[16:02:42]  Loaded 0 plugins.
+
+[16:02:42] 
+[16:02:42] Filterscripts
+[16:02:42] ---------------
+[16:02:42]   Loaded 0 filterscripts.
+
+[16:02:42] Script[gamemodes/nullRP.amx]: Run time error 19: "File or function is not found"
+[16:02:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:04:44] filterscripts = ""  (string)
+[16:04:44] 
+[16:04:44] Server Plugins
+[16:04:44] --------------
+[16:04:44]  Loaded 0 plugins.
+
+[16:04:44] 
+[16:04:44] Filterscripts
+[16:04:44] ---------------
+[16:04:44]   Loaded 0 filterscripts.
+
+[16:04:44] Script[gamemodes/nullRP.amx]: Run time error 19: "File or function is not found"
+[16:04:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:07:07] filterscripts = ""  (string)
+[16:07:07] 
+[16:07:07] Server Plugins
+[16:07:07] --------------
+[16:07:07]  Loading plugin: mysql
+[16:07:07]   Failed.
+[16:07:07]  Loaded 0 plugins.
+
+[16:07:07] 
+[16:07:07] Filterscripts
+[16:07:07] ---------------
+[16:07:07]   Loaded 0 filterscripts.
+
+[16:07:07] Script[gamemodes/nullRP.amx]: Run time error 19: "File or function is not found"
+[16:07:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:08:10] filterscripts = ""  (string)
+[16:08:10] 
+[16:08:10] Server Plugins
+[16:08:10] --------------
+[16:08:10]  Loading plugin: mysql
+[16:08:10]   Failed.
+[16:08:10]  Loaded 0 plugins.
+
+[16:08:10] 
+[16:08:10] Filterscripts
+[16:08:10] ---------------
+[16:08:10]   Loaded 0 filterscripts.
+
+[16:08:10] Script[gamemodes/nullRP.amx]: Run time error 19: "File or function is not found"
+[16:08:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:10:12] filterscripts = ""  (string)
+[16:10:12] 
+[16:10:12] Server Plugins
+[16:10:12] --------------
+[16:10:12]  Loading plugin: mysql
+[16:10:12] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[16:10:12]   Loaded.
+[16:10:12]  Loaded 1 plugins.
+
+[16:10:12] 
+[16:10:12] Filterscripts
+[16:10:12] ---------------
+[16:10:12]   Loaded 0 filterscripts.
+
+[16:10:12] Povezivanje baze...
+[16:10:12] Baza uspjesno povezana!
+[16:10:12] Number of vehicle models: 0
+[16:10:36] [connection] 127.0.0.1:61529 requests connection cookie.
+[16:10:37] [connection] incoming connection: 127.0.0.1:61529 id: 0
+[16:10:37] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[16:10:59] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:33:23] filterscripts = ""  (string)
+[16:33:23] 
+[16:33:23] Server Plugins
+[16:33:23] --------------
+[16:33:23]  Loading plugin: mysql
+[16:33:23] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[16:33:23]   Loaded.
+[16:33:23]  Loaded 1 plugins.
+
+[16:33:23] 
+[16:33:23] Filterscripts
+[16:33:23] ---------------
+[16:33:23]   Loaded 0 filterscripts.
+
+[16:33:23] Povezivanje baze...
+[16:33:23] Baza uspjesno povezana!
+[16:33:23] Number of vehicle models: 0
+[16:33:43] [connection] 127.0.0.1:59811 requests connection cookie.
+[16:33:44] [connection] incoming connection: 127.0.0.1:59811 id: 0
+[16:33:44] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[16:34:22] [part] Hawk_Gotti has left the server (0:1)
+[16:34:53] [connection] 127.0.0.1:55659 requests connection cookie.
+[16:34:54] [connection] incoming connection: 127.0.0.1:55659 id: 0
+[16:34:54] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[16:35:07] [part] Hawk_Gotti has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:27] filterscripts = ""  (string)
+[16:38:27] 
+[16:38:27] Server Plugins
+[16:38:27] --------------
+[16:38:27]  Loading plugin: mysql
+[16:38:27] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[16:38:27]   Loaded.
+[16:38:27]  Loaded 1 plugins.
+
+[16:38:27] 
+[16:38:27] Filterscripts
+[16:38:27] ---------------
+[16:38:27]   Loaded 0 filterscripts.
+
+[16:38:27] Povezivanje baze...
+[16:38:27] Baza uspjesno povezana!
+[16:38:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:51] filterscripts = ""  (string)
+[16:38:51] 
+[16:38:51] Server Plugins
+[16:38:51] --------------
+[16:38:51]  Loading plugin: mysql
+[16:38:51] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[16:38:51]   Loaded.
+[16:38:51]  Loaded 1 plugins.
+
+[16:38:51] 
+[16:38:51] Filterscripts
+[16:38:51] ---------------
+[16:38:51]   Loaded 0 filterscripts.
+
+[16:38:51] Povezivanje baze...
+[16:38:51] Baza uspjesno povezana!
+[16:38:51] Number of vehicle models: 0
+[16:39:24] [connection] 127.0.0.1:60264 requests connection cookie.
+[16:39:25] [connection] incoming connection: 127.0.0.1:60264 id: 0
+[16:39:25] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:47] filterscripts = ""  (string)
+[17:02:47] 
+[17:02:47] Server Plugins
+[17:02:47] --------------
+[17:02:47]  Loading plugin: mysql
+[17:02:47] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:02:47]   Loaded.
+[17:02:47]  Loaded 1 plugins.
+
+[17:02:47] 
+[17:02:47] Filterscripts
+[17:02:47] ---------------
+[17:02:47]   Loaded 0 filterscripts.
+
+[17:02:47] Povezivanje baze...
+[17:02:47] Baza uspjesno povezana!
+[17:02:47] Number of vehicle models: 0
+[17:03:10] [connection] 127.0.0.1:62269 requests connection cookie.
+[17:03:11] [connection] incoming connection: 127.0.0.1:62269 id: 0
+[17:03:11] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:03:27] [part] Hawk_Gotti has left the server (0:1)
+[17:03:51] [connection] 127.0.0.1:59031 requests connection cookie.
+[17:03:52] [connection] incoming connection: 127.0.0.1:59031 id: 0
+[17:03:52] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:10] filterscripts = ""  (string)
+[17:08:10] 
+[17:08:10] Server Plugins
+[17:08:10] --------------
+[17:08:10]  Loading plugin: mysql
+[17:08:10] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:08:10]   Loaded.
+[17:08:10]  Loaded 1 plugins.
+
+[17:08:10] 
+[17:08:10] Filterscripts
+[17:08:10] ---------------
+[17:08:10]   Loaded 0 filterscripts.
+
+[17:08:11] Povezivanje baze...
+[17:08:11] Baza uspjesno povezana!
+[17:08:11] Number of vehicle models: 0
+[17:08:30] [connection] 127.0.0.1:60488 requests connection cookie.
+[17:08:31] [connection] incoming connection: 127.0.0.1:60488 id: 0
+[17:08:31] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:17:46] filterscripts = ""  (string)
+[17:17:46] 
+[17:17:46] Server Plugins
+[17:17:46] --------------
+[17:17:46]  Loading plugin: mysql
+[17:17:46] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:17:46]   Loaded.
+[17:17:46]  Loaded 1 plugins.
+
+[17:17:46] 
+[17:17:46] Filterscripts
+[17:17:46] ---------------
+[17:17:46]   Loaded 0 filterscripts.
+
+[17:17:46] Povezivanje baze...
+[17:17:46] Baza uspjesno povezana!
+[17:17:46] Number of vehicle models: 0
+[17:18:16] [connection] 127.0.0.1:56188 requests connection cookie.
+[17:18:17] [connection] incoming connection: 127.0.0.1:56188 id: 0
+[17:18:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:18:21] Response dobar, nastavak sa prijavom i dohvatom podataka...
+[17:18:21] Dohvacanje podataka...
+[17:18:21] Dohvaceni novaci: 0
+[17:18:21] Spremljeni novci
+[17:18:21] Spremljen posao
+[17:18:21] Spremljen admin
+[17:18:21] Spremljen level
+[17:18:21] Spremljen respect
+[17:18:21] Spremljena organizacija
+[17:18:21] Spremljen rank
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:27:38] filterscripts = ""  (string)
+[17:27:38] 
+[17:27:38] Server Plugins
+[17:27:38] --------------
+[17:27:38]  Loading plugin: mysql
+[17:27:38] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:27:38]   Loaded.
+[17:27:38]  Loaded 1 plugins.
+
+[17:27:38] 
+[17:27:38] Filterscripts
+[17:27:38] ---------------
+[17:27:38]   Loaded 0 filterscripts.
+
+[17:27:38] Povezivanje baze...
+[17:27:38] Baza uspjesno povezana!
+[17:27:38] Number of vehicle models: 0
+[17:28:01] [connection] 127.0.0.1:49546 requests connection cookie.
+[17:28:02] [connection] incoming connection: 127.0.0.1:49546 id: 0
+[17:28:02] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:28:05] Response dobar, nastavak sa prijavom i dohvatom podataka...
+[17:28:06] Dohvacanje podataka...
+[17:28:06] Dohvaceni novaci: 50000
+[17:28:06] Spremljeni novci
+[17:28:06] Spremljen posao
+[17:28:06] Spremljen admin
+[17:28:06] Spremljen level
+[17:28:06] Spremljen respect
+[17:28:06] Spremljena organizacija
+[17:28:06] Spremljen rank
+[17:28:06] Spremljen skin: 50
+[17:29:46] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:45:43] filterscripts = ""  (string)
+[17:45:43] 
+[17:45:43] Server Plugins
+[17:45:43] --------------
+[17:45:43]  Loading plugin: mysql
+[17:45:43] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:45:43]   Loaded.
+[17:45:43]  Loaded 1 plugins.
+
+[17:45:43] 
+[17:45:43] Filterscripts
+[17:45:43] ---------------
+[17:45:43]   Loaded 0 filterscripts.
+
+[17:45:43] Povezivanje baze...
+[17:45:43] Baza uspjesno povezana!
+[17:45:43] Number of vehicle models: 0
+[17:46:02] [connection] 127.0.0.1:55528 requests connection cookie.
+[17:46:03] [connection] incoming connection: 127.0.0.1:55528 id: 0
+[17:46:03] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:46:07] Response dobar, nastavak sa prijavom i dohvatom podataka...
+[17:46:07] Dohvacanje podataka...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:47:59] filterscripts = ""  (string)
+[17:47:59] 
+[17:47:59] Server Plugins
+[17:47:59] --------------
+[17:47:59]  Loading plugin: mysql
+[17:47:59] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:47:59]   Loaded.
+[17:47:59]  Loaded 1 plugins.
+
+[17:47:59] 
+[17:47:59] Filterscripts
+[17:47:59] ---------------
+[17:47:59]   Loaded 0 filterscripts.
+
+[17:47:59] Povezivanje baze...
+[17:47:59] Baza uspjesno povezana!
+[17:47:59] Number of vehicle models: 0
+[17:48:23] [connection] 127.0.0.1:61499 requests connection cookie.
+[17:48:24] [connection] incoming connection: 127.0.0.1:61499 id: 0
+[17:48:24] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:48:28] Response dobar, nastavak sa prijavom i dohvatom podataka...
+[17:48:28] Dohvacanje podataka...
+[17:48:48] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:51:50] filterscripts = ""  (string)
+[17:51:50] 
+[17:51:50] Server Plugins
+[17:51:50] --------------
+[17:51:50]  Loading plugin: mysql
+[17:51:50] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:51:50]   Loaded.
+[17:51:50]  Loaded 1 plugins.
+
+[17:51:50] 
+[17:51:50] Filterscripts
+[17:51:50] ---------------
+[17:51:50]   Loaded 0 filterscripts.
+
+[17:51:50] Povezivanje baze...
+[17:51:50] Baza uspjesno povezana!
+[17:51:50] Number of vehicle models: 0
+[17:52:08] [connection] 127.0.0.1:63955 requests connection cookie.
+[17:52:09] [connection] incoming connection: 127.0.0.1:63955 id: 0
+[17:52:10] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:52:13] Dohvacanje podataka...
+[17:52:31] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:09:41] filterscripts = ""  (string)
+[18:09:41] 
+[18:09:41] Server Plugins
+[18:09:41] --------------
+[18:09:41]  Loading plugin: sscanf
+[18:09:41] 
+
+[18:09:41]  ===============================
+
+[18:09:41]       sscanf plugin loaded.     
+
+[18:09:41]          Version:  2.8.2        
+
+[18:09:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:09:41]  ===============================
+
+[18:09:41]   Loaded.
+[18:09:41]  Loading plugin: mysql
+[18:09:41] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:09:41]   Loaded.
+[18:09:41]  Loaded 2 plugins.
+
+[18:09:41] 
+[18:09:41] Filterscripts
+[18:09:41] ---------------
+[18:09:41]   Loaded 0 filterscripts.
+
+[18:09:41] Povezivanje baze...
+[18:09:41] Baza uspjesno povezana!
+[18:09:41] Number of vehicle models: 0
+[18:10:06] [connection] 127.0.0.1:50717 requests connection cookie.
+[18:10:07] [connection] incoming connection: 127.0.0.1:50717 id: 0
+[18:10:07] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[18:10:10] Dohvacanje podataka...
+[18:10:30] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:10:37] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:10:41] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:10:45] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:10:50] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:11:01] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:20:15] filterscripts = ""  (string)
+[18:20:15] 
+[18:20:15] Server Plugins
+[18:20:15] --------------
+[18:20:15]  Loading plugin: sscanf
+[18:20:15] 
+
+[18:20:15]  ===============================
+
+[18:20:15]       sscanf plugin loaded.     
+
+[18:20:15]          Version:  2.8.2        
+
+[18:20:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:20:15]  ===============================
+
+[18:20:15]   Loaded.
+[18:20:15]  Loading plugin: mysql
+[18:20:15] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:20:15]   Loaded.
+[18:20:15]  Loaded 2 plugins.
+
+[18:20:15] 
+[18:20:15] Filterscripts
+[18:20:15] ---------------
+[18:20:15]   Loaded 0 filterscripts.
+
+[18:20:15] Povezivanje baze...
+[18:20:15] Baza uspjesno povezana!
+[18:20:15] Number of vehicle models: 0
+[18:21:26] [connection] 127.0.0.1:55775 requests connection cookie.
+[18:21:27] [connection] incoming connection: 127.0.0.1:55775 id: 0
+[18:21:28] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[18:21:30] Dohvacanje podataka...
+[18:21:46] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:22:05] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:23:22] filterscripts = ""  (string)
+[18:23:22] 
+[18:23:22] Server Plugins
+[18:23:22] --------------
+[18:23:22]  Loading plugin: sscanf
+[18:23:22] 
+
+[18:23:22]  ===============================
+
+[18:23:22]       sscanf plugin loaded.     
+
+[18:23:22]          Version:  2.8.2        
+
+[18:23:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:23:22]  ===============================
+
+[18:23:22]   Loaded.
+[18:23:22]  Loading plugin: mysql
+[18:23:22] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:23:22]   Loaded.
+[18:23:22]  Loaded 2 plugins.
+
+[18:23:22] 
+[18:23:22] Filterscripts
+[18:23:22] ---------------
+[18:23:22]   Loaded 0 filterscripts.
+
+[18:23:22] Povezivanje baze...
+[18:23:22] Baza uspjesno povezana!
+[18:23:22] Number of vehicle models: 0
+[18:23:42] [connection] 127.0.0.1:61688 requests connection cookie.
+[18:23:43] [connection] incoming connection: 127.0.0.1:61688 id: 0
+[18:23:43] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[18:23:46] Dohvacanje podataka...
+[18:23:56] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:23:58] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:24:57] filterscripts = ""  (string)
+[18:24:57] 
+[18:24:57] Server Plugins
+[18:24:57] --------------
+[18:24:57]  Loading plugin: sscanf
+[18:24:57] 
+
+[18:24:57]  ===============================
+
+[18:24:57]       sscanf plugin loaded.     
+
+[18:24:57]          Version:  2.8.2        
+
+[18:24:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:24:57]  ===============================
+
+[18:24:57]   Loaded.
+[18:24:57]  Loading plugin: mysql
+[18:24:57] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:24:57]   Loaded.
+[18:24:57]  Loaded 2 plugins.
+
+[18:24:57] 
+[18:24:57] Filterscripts
+[18:24:57] ---------------
+[18:24:57]   Loaded 0 filterscripts.
+
+[18:24:57] Povezivanje baze...
+[18:24:57] Baza uspjesno povezana!
+[18:24:57] Number of vehicle models: 0
+[18:25:29] [connection] 127.0.0.1:50339 requests connection cookie.
+[18:25:30] [connection] incoming connection: 127.0.0.1:50339 id: 0
+[18:25:31] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[18:25:34] Dohvacanje podataka...
+[18:25:48] sscanf warning: Strings without a length are deprecated, please add a destination size.
+[18:25:53] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:27:09] filterscripts = ""  (string)
+[18:27:09] 
+[18:27:09] Server Plugins
+[18:27:09] --------------
+[18:27:09]  Loading plugin: sscanf
+[18:27:09] 
+
+[18:27:09]  ===============================
+
+[18:27:09]       sscanf plugin loaded.     
+
+[18:27:09]          Version:  2.8.2        
+
+[18:27:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:27:09]  ===============================
+
+[18:27:09]   Loaded.
+[18:27:09]  Loading plugin: mysql
+[18:27:09] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:27:09]   Loaded.
+[18:27:09]  Loaded 2 plugins.
+
+[18:27:09] 
+[18:27:09] Filterscripts
+[18:27:09] ---------------
+[18:27:09]   Loaded 0 filterscripts.
+
+[18:27:09] Povezivanje baze...
+[18:27:09] Baza uspjesno povezana!
+[18:27:09] Number of vehicle models: 0
+[18:27:27] [connection] 127.0.0.1:63818 requests connection cookie.
+[18:27:28] [connection] incoming connection: 127.0.0.1:63818 id: 0
+[18:27:29] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[18:27:33] Dohvacanje podataka...
+[18:27:37] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:04] filterscripts = ""  (string)
+[20:05:04] 
+[20:05:04] Server Plugins
+[20:05:04] --------------
+[20:05:04]  Loading plugin: sscanf
+[20:05:04] 
+
+[20:05:04]  ===============================
+
+[20:05:04]       sscanf plugin loaded.     
+
+[20:05:04]          Version:  2.8.2        
+
+[20:05:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:05:04]  ===============================
+
+[20:05:04]   Loaded.
+[20:05:04]  Loading plugin: mysql
+[20:05:04] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:05:04]   Loaded.
+[20:05:04]  Loaded 2 plugins.
+
+[20:05:04] 
+[20:05:04] Filterscripts
+[20:05:04] ---------------
+[20:05:04]   Loaded 0 filterscripts.
+
+[20:05:04] Povezivanje baze...
+[20:05:04] Baza uspjesno povezana!
+[20:05:04] Number of vehicle models: 0
+[20:05:04] Ucitano vozila: 0
+[20:05:26] [connection] 127.0.0.1:63066 requests connection cookie.
+[20:05:27] [connection] incoming connection: 127.0.0.1:63066 id: 0
+[20:05:27] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[20:05:31] Dohvacanje podataka...
+[20:06:00] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:23] filterscripts = ""  (string)
+[20:08:23] 
+[20:08:23] Server Plugins
+[20:08:23] --------------
+[20:08:23]  Loading plugin: sscanf
+[20:08:23] 
+
+[20:08:23]  ===============================
+
+[20:08:23]       sscanf plugin loaded.     
+
+[20:08:23]          Version:  2.8.2        
+
+[20:08:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:08:23]  ===============================
+
+[20:08:23]   Loaded.
+[20:08:23]  Loading plugin: mysql
+[20:08:23] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:08:23]   Loaded.
+[20:08:23]  Loaded 2 plugins.
+
+[20:08:23] 
+[20:08:23] Filterscripts
+[20:08:23] ---------------
+[20:08:23]   Loaded 0 filterscripts.
+
+[20:08:23] Povezivanje baze...
+[20:08:23] Baza uspjesno povezana!
+[20:08:23] Number of vehicle models: 0
+[20:08:23] Ucitavanje vozila...
+[20:08:23] Vozilo ID= 65535 spawnano na ModelID=0, X=0.000000, Y=0.000000, Z=0.000000, R=0.000000, Vlasnik: Index:1
+[20:08:23] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:09:15] filterscripts = ""  (string)
+[20:09:15] 
+[20:09:15] Server Plugins
+[20:09:15] --------------
+[20:09:15]  Loading plugin: sscanf
+[20:09:15] 
+
+[20:09:15]  ===============================
+
+[20:09:15]       sscanf plugin loaded.     
+
+[20:09:15]          Version:  2.8.2        
+
+[20:09:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:09:15]  ===============================
+
+[20:09:15]   Loaded.
+[20:09:15]  Loading plugin: mysql
+[20:09:15] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:09:15]   Loaded.
+[20:09:15]  Loaded 2 plugins.
+
+[20:09:15] 
+[20:09:15] Filterscripts
+[20:09:15] ---------------
+[20:09:15]   Loaded 0 filterscripts.
+
+[20:09:15] Povezivanje baze...
+[20:09:15] Baza uspjesno povezana!
+[20:09:15] Number of vehicle models: 0
+[20:09:15] Ucitavanje vozila...
+[20:09:15] Vozilo ID= 65535 spawnano na ModelID=0, X=0.000000, Y=0.000000, Z=0.000000, R=0.000000, Vlasnik: Index:1
+[20:09:15] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:43:19] filterscripts = ""  (string)
+[20:43:19] 
+[20:43:19] Server Plugins
+[20:43:19] --------------
+[20:43:19]  Loading plugin: sscanf
+[20:43:19] 
+
+[20:43:19]  ===============================
+
+[20:43:19]       sscanf plugin loaded.     
+
+[20:43:19]          Version:  2.8.2        
+
+[20:43:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:43:19]  ===============================
+
+[20:43:19]   Loaded.
+[20:43:19]  Loading plugin: mysql
+[20:43:19] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:43:19]   Loaded.
+[20:43:19]  Loaded 2 plugins.
+
+[20:43:19] 
+[20:43:19] Filterscripts
+[20:43:19] ---------------
+[20:43:19]   Loaded 0 filterscripts.
+
+[20:43:19] Povezivanje baze...
+[20:43:19] Baza uspjesno povezana!
+[20:43:19] Number of vehicle models: 0
+[20:43:19] Ucitavanje vozila...
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Temp: $s
+[20:43:19] Vozilo ID= 65535 spawnano na ModelID=0, X=0.000000, Y=0.000000, Z=0.000000, R=0.000000, Vlasnik: Index:1
+[20:43:19] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:44:06] filterscripts = ""  (string)
+[20:44:06] 
+[20:44:06] Server Plugins
+[20:44:06] --------------
+[20:44:06]  Loading plugin: sscanf
+[20:44:06] 
+
+[20:44:06]  ===============================
+
+[20:44:06]       sscanf plugin loaded.     
+
+[20:44:06]          Version:  2.8.2        
+
+[20:44:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:44:06]  ===============================
+
+[20:44:06]   Loaded.
+[20:44:06]  Loading plugin: mysql
+[20:44:06] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:44:06]   Loaded.
+[20:44:06]  Loaded 2 plugins.
+
+[20:44:06] 
+[20:44:06] Filterscripts
+[20:44:06] ---------------
+[20:44:06]   Loaded 0 filterscripts.
+
+[20:44:06] Povezivanje baze...
+[20:44:06] Baza uspjesno povezana!
+[20:44:06] Number of vehicle models: 0
+[20:44:06] Ucitavanje vozila...
+[20:44:06] Temp: 1
+[20:44:06] Temp: Hawk_Gotti
+[20:44:06] Temp: NULL
+[20:44:06] Temp: 451
+[20:44:06] Temp: -1520.18
+[20:44:06] Temp: 893.985
+[20:44:06] Temp: 7.1875
+[20:44:06] Temp: 356.012
+[20:44:06] Temp: 0
+[20:44:06] Temp: 0
+[20:44:06] Temp: NULL
+[20:44:06] Temp: NULL
+[20:44:06] Vozilo ID= 65535 spawnano na ModelID=0, X=0.000000, Y=0.000000, Z=0.000000, R=0.000000, Vlasnik: Index:1
+[20:44:06] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:45:21] filterscripts = ""  (string)
+[20:45:21] 
+[20:45:21] Server Plugins
+[20:45:21] --------------
+[20:45:21]  Loading plugin: sscanf
+[20:45:21] 
+
+[20:45:21]  ===============================
+
+[20:45:21]       sscanf plugin loaded.     
+
+[20:45:21]          Version:  2.8.2        
+
+[20:45:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:45:21]  ===============================
+
+[20:45:21]   Loaded.
+[20:45:21]  Loading plugin: mysql
+[20:45:21] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:45:21]   Loaded.
+[20:45:21]  Loaded 2 plugins.
+
+[20:45:21] 
+[20:45:21] Filterscripts
+[20:45:21] ---------------
+[20:45:21]   Loaded 0 filterscripts.
+
+[20:45:21] Povezivanje baze...
+[20:45:21] Baza uspjesno povezana!
+[20:45:21] Number of vehicle models: 0
+[20:45:21] Ucitavanje vozila...
+[20:45:21] Temp: 1
+[20:45:21] Temp: Hawk_Gotti
+[20:45:21] Temp: NULL
+[20:45:21] Temp: 451
+[20:45:21] Temp: -1520.18
+[20:45:21] Temp: 893.985
+[20:45:21] Temp: 7.1875
+[20:45:21] Temp: 356.012
+[20:45:21] Temp: 0
+[20:45:21] Temp: 0
+[20:45:21] Temp: NULL
+[20:45:21] Temp: NULL
+[20:45:21] Vozilo ID= 65535 spawnano na ModelID=0, X=0.000000, Y=0.000000, Z=0.000000, R=0.000000, Vlasnik: Index:1
+[20:45:21] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:51:35] filterscripts = ""  (string)
+[20:51:35] 
+[20:51:35] Server Plugins
+[20:51:35] --------------
+[20:51:35]  Loading plugin: sscanf
+[20:51:35] 
+
+[20:51:35]  ===============================
+
+[20:51:35]       sscanf plugin loaded.     
+
+[20:51:35]          Version:  2.8.2        
+
+[20:51:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:51:35]  ===============================
+
+[20:51:35]   Loaded.
+[20:51:35]  Loading plugin: mysql
+[20:51:35] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:51:35]   Loaded.
+[20:51:35]  Loaded 2 plugins.
+
+[20:51:35] 
+[20:51:35] Filterscripts
+[20:51:35] ---------------
+[20:51:35]   Loaded 0 filterscripts.
+
+[20:51:35] Povezivanje baze...
+[20:51:35] Baza uspjesno povezana!
+[20:51:35] Number of vehicle models: 0
+[20:51:35] Ucitavanje vozila...
+[20:51:35] Temp: 1
+[20:51:35] Temp INT: 1
+[20:51:35] Vrijednost iz varijable: 1
+[20:51:35] Temp: Hawk_Gotti
+[20:51:35] Temp: NULL
+[20:51:35] Temp: 451
+[20:51:35] Temp: -1520.18
+[20:51:35] Temp: 893.985
+[20:51:35] Temp: 7.1875
+[20:51:35] Temp: 356.012
+[20:51:35] Temp: 0
+[20:51:35] Temp: 0
+[20:51:35] Temp: NULL
+[20:51:35] Temp: NULL
+[20:51:35] Vozilo ID= 65535 spawnano na ModelID=0, X=0.000000, Y=0.000000, Z=0.000000, R=0.000000, Vlasnik: Index:1
+[20:51:35] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:52:16] filterscripts = ""  (string)
+[20:52:16] 
+[20:52:16] Server Plugins
+[20:52:16] --------------
+[20:52:16]  Loading plugin: sscanf
+[20:52:16] 
+
+[20:52:16]  ===============================
+
+[20:52:16]       sscanf plugin loaded.     
+
+[20:52:16]          Version:  2.8.2        
+
+[20:52:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:52:16]  ===============================
+
+[20:52:16]   Loaded.
+[20:52:16]  Loading plugin: mysql
+[20:52:16] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:52:16]   Loaded.
+[20:52:16]  Loaded 2 plugins.
+
+[20:52:16] 
+[20:52:16] Filterscripts
+[20:52:16] ---------------
+[20:52:16]   Loaded 0 filterscripts.
+
+[20:52:16] Povezivanje baze...
+[20:52:16] Baza uspjesno povezana!
+[20:52:16] Number of vehicle models: 0
+[20:52:16] Ucitavanje vozila...
+[20:52:16] Temp: 1
+[20:52:16] Temp INT: 1
+[20:52:16] Vrijednost iz varijable: 1
+[20:52:16] Temp: Hawk_Gotti
+[20:52:16] Temp: NULL
+[20:52:16] Temp: 451
+[20:52:16] Temp: -1520.18
+[20:52:16] Temp: 893.985
+[20:52:16] Temp: 7.1875
+[20:52:16] Temp: 356.012
+[20:52:16] Temp: 0
+[20:52:16] Temp: 0
+[20:52:16] Temp: NULL
+[20:52:16] Temp: NULL
+[20:52:16] Vozilo ID= 1 spawnano na ModelID=451, X=-1520.180053, Y=893.984985, Z=7.187500, R=356.011993, Vlasnik:Hawk_Gotti Index:0
+[20:52:16] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:53:44] filterscripts = ""  (string)
+[20:53:44] 
+[20:53:44] Server Plugins
+[20:53:44] --------------
+[20:53:44]  Loading plugin: sscanf
+[20:53:44] 
+
+[20:53:44]  ===============================
+
+[20:53:44]       sscanf plugin loaded.     
+
+[20:53:44]          Version:  2.8.2        
+
+[20:53:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:53:44]  ===============================
+
+[20:53:44]   Loaded.
+[20:53:44]  Loading plugin: mysql
+[20:53:44] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:53:44]   Loaded.
+[20:53:44]  Loaded 2 plugins.
+
+[20:53:44] 
+[20:53:44] Filterscripts
+[20:53:44] ---------------
+[20:53:44]   Loaded 0 filterscripts.
+
+[20:53:44] Povezivanje baze...
+[20:53:44] Baza uspjesno povezana!
+[20:53:44] Number of vehicle models: 0
+[20:53:44] Ucitavanje vozila...
+[20:53:44] Vozilo ID= 1 spawnano na ModelID=451, X=-1520.180053, Y=893.984985, Z=7.187500, R=356.011993, Vlasnik:Hawk_Gotti Index:0
+[20:53:44] Ucitano vozila: 1
+[20:54:05] [connection] 127.0.0.1:56632 requests connection cookie.
+[20:54:06] [connection] incoming connection: 127.0.0.1:56632 id: 0
+[20:54:06] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[20:54:09] Dohvacanje podataka...
+[20:54:13] Dohvacanje podataka...
+[20:56:09] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:02:33] filterscripts = ""  (string)
+[21:02:33] 
+[21:02:33] Server Plugins
+[21:02:33] --------------
+[21:02:33]  Loading plugin: sscanf
+[21:02:33] 
+
+[21:02:33]  ===============================
+
+[21:02:33]       sscanf plugin loaded.     
+
+[21:02:33]          Version:  2.8.2        
+
+[21:02:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:02:33]  ===============================
+
+[21:02:33]   Loaded.
+[21:02:33]  Loading plugin: mysql
+[21:02:34] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:02:34]   Loaded.
+[21:02:34]  Loaded 2 plugins.
+
+[21:02:34] 
+[21:02:34] Filterscripts
+[21:02:34] ---------------
+[21:02:34]   Loaded 0 filterscripts.
+
+[21:02:34] Povezivanje baze...
+[21:02:34] Baza uspjesno povezana!
+[21:02:34] Number of vehicle models: 0
+[21:02:34] Ucitavanje vozila...
+[21:02:34] Vozilo ID= 1 spawnano na ModelID=451, X=-1520.180053, Y=893.984985, Z=7.187500, R=356.011993, Vlasnik:Hawk_Gotti Index:0
+[21:02:34] Ucitano vozila: 1
+[21:03:04] [connection] 127.0.0.1:53477 requests connection cookie.
+[21:03:05] [connection] incoming connection: 127.0.0.1:53477 id: 0
+[21:03:05] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:03:12] Dohvacanje podataka...
+[21:03:58] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:10:32] filterscripts = ""  (string)
+[21:10:32] 
+[21:10:32] Server Plugins
+[21:10:32] --------------
+[21:10:32]  Loading plugin: sscanf
+[21:10:32] 
+
+[21:10:32]  ===============================
+
+[21:10:32]       sscanf plugin loaded.     
+
+[21:10:32]          Version:  2.8.2        
+
+[21:10:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:10:32]  ===============================
+
+[21:10:32]   Loaded.
+[21:10:32]  Loading plugin: mysql
+[21:10:32] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:10:32]   Loaded.
+[21:10:32]  Loaded 2 plugins.
+
+[21:10:32] 
+[21:10:32] Filterscripts
+[21:10:32] ---------------
+[21:10:32]   Loaded 0 filterscripts.
+
+[21:10:32] Povezivanje baze...
+[21:10:32] Baza uspjesno povezana!
+[21:10:32] Number of vehicle models: 0
+[21:10:32] Ucitavanje vozila...
+[21:10:32] Vozilo ID= 1 spawnano na ModelID=451, X=-1520.180053, Y=893.984985, Z=7.187500, R=356.011993, Vlasnik:Hawk_Gotti Index:0
+[21:10:32] Vozilo ID= 2 spawnano na ModelID=415, X=-1505.829956, Y=953.559020, Z=6.892099, R=171.111999, Vlasnik:Vito_Scalleta Index:1
+[21:10:32] Vozilo ID= 3 spawnano na ModelID=434, X=-1507.829956, Y=957.559020, Z=6.892099, R=175.111999, Vlasnik:Tony_Scarface Index:2
+[21:10:32] Ucitano vozila: 3
+[21:10:54] [connection] 127.0.0.1:61645 requests connection cookie.
+[21:10:55] [connection] incoming connection: 127.0.0.1:61645 id: 0
+[21:10:55] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:10:58] Dohvacanje podataka...
+[21:12:12] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:27:43] filterscripts = ""  (string)
+[21:27:43] 
+[21:27:43] Server Plugins
+[21:27:43] --------------
+[21:27:43]  Loading plugin: sscanf
+[21:27:43] 
+
+[21:27:43]  ===============================
+
+[21:27:43]       sscanf plugin loaded.     
+
+[21:27:43]          Version:  2.8.2        
+
+[21:27:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:27:43]  ===============================
+
+[21:27:43]   Loaded.
+[21:27:43]  Loading plugin: mysql
+[21:27:43] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:27:43]   Loaded.
+[21:27:43]  Loaded 2 plugins.
+
+[21:27:43] 
+[21:27:43] Filterscripts
+[21:27:43] ---------------
+[21:27:43]   Loaded 0 filterscripts.
+
+[21:27:43] Povezivanje baze...
+[21:27:43] Baza uspjesno povezana!
+[21:27:43] Number of vehicle models: 0
+[21:27:43] Ucitavanje vozila...
+[21:27:43] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Hawk_Gotti
+[21:27:43] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Vito_Scalleta
+[21:27:43] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=Tony_Scarface
+[21:27:43] Ucitano vozila: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:28:52] filterscripts = ""  (string)
+[21:28:52] 
+[21:28:52] Server Plugins
+[21:28:52] --------------
+[21:28:52]  Loading plugin: sscanf
+[21:28:52] 
+
+[21:28:52]  ===============================
+
+[21:28:52]       sscanf plugin loaded.     
+
+[21:28:52]          Version:  2.8.2        
+
+[21:28:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:28:52]  ===============================
+
+[21:28:52]   Loaded.
+[21:28:52]  Loading plugin: mysql
+[21:28:52] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:28:52]   Loaded.
+[21:28:52]  Loaded 2 plugins.
+
+[21:28:52] 
+[21:28:52] Filterscripts
+[21:28:52] ---------------
+[21:28:52]   Loaded 0 filterscripts.
+
+[21:28:52] Povezivanje baze...
+[21:28:52] Baza uspjesno povezana!
+[21:28:52] Number of vehicle models: 0
+[21:28:52] Ucitavanje vozila...
+[21:28:52] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Hawk_Gotti
+[21:28:52] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Vito_Scalleta
+[21:28:52] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=Tony_Scarface
+[21:28:52] Ucitano vozila: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:29:44] filterscripts = ""  (string)
+[21:29:44] 
+[21:29:44] Server Plugins
+[21:29:44] --------------
+[21:29:44]  Loading plugin: sscanf
+[21:29:44] 
+
+[21:29:44]  ===============================
+
+[21:29:44]       sscanf plugin loaded.     
+
+[21:29:44]          Version:  2.8.2        
+
+[21:29:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:29:44]  ===============================
+
+[21:29:44]   Loaded.
+[21:29:44]  Loading plugin: mysql
+[21:29:44] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:29:44]   Loaded.
+[21:29:44]  Loaded 2 plugins.
+
+[21:29:44] 
+[21:29:44] Filterscripts
+[21:29:44] ---------------
+[21:29:44]   Loaded 0 filterscripts.
+
+[21:29:44] Povezivanje baze...
+[21:29:44] Baza uspjesno povezana!
+[21:29:44] Number of vehicle models: 0
+[21:29:44] Ucitavanje vozila...
+[21:29:44] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:29:44] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:29:44] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:29:44] Ucitano vozila: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:28] filterscripts = ""  (string)
+[21:34:28] 
+[21:34:28] Server Plugins
+[21:34:28] --------------
+[21:34:28]  Loading plugin: sscanf
+[21:34:28] 
+
+[21:34:28]  ===============================
+
+[21:34:28]       sscanf plugin loaded.     
+
+[21:34:28]          Version:  2.8.2        
+
+[21:34:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:34:28]  ===============================
+
+[21:34:28]   Loaded.
+[21:34:28]  Loading plugin: mysql
+[21:34:28] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:34:28]   Loaded.
+[21:34:28]  Loaded 2 plugins.
+
+[21:34:28] 
+[21:34:28] Filterscripts
+[21:34:28] ---------------
+[21:34:28]   Loaded 0 filterscripts.
+
+[21:34:28] Povezivanje baze...
+[21:34:28] Baza uspjesno povezana!
+[21:34:28] Number of vehicle models: 0
+[21:34:28] Ucitavanje vozila...
+[21:34:28] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:34:28] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:34:28] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:34:28] Ucitano vozila: 3
+[21:34:48] [connection] 127.0.0.1:50455 requests connection cookie.
+[21:34:49] [connection] incoming connection: 127.0.0.1:50455 id: 0
+[21:34:49] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:34:52] Dohvacanje podataka...
+[21:35:17] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:36:44] filterscripts = ""  (string)
+[21:36:44] 
+[21:36:44] Server Plugins
+[21:36:44] --------------
+[21:36:44]  Loading plugin: sscanf
+[21:36:44] 
+
+[21:36:44]  ===============================
+
+[21:36:44]       sscanf plugin loaded.     
+
+[21:36:44]          Version:  2.8.2        
+
+[21:36:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:36:44]  ===============================
+
+[21:36:44]   Loaded.
+[21:36:44]  Loading plugin: mysql
+[21:36:44] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:36:44]   Loaded.
+[21:36:44]  Loaded 2 plugins.
+
+[21:36:44] 
+[21:36:44] Filterscripts
+[21:36:44] ---------------
+[21:36:44]   Loaded 0 filterscripts.
+
+[21:36:44] Povezivanje baze...
+[21:36:44] Baza uspjesno povezana!
+[21:36:44] Number of vehicle models: 0
+[21:36:44] Ucitavanje vozila...
+[21:36:44] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:36:44] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:36:44] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:36:44] Ucitano vozila: 3
+[21:37:04] [connection] 127.0.0.1:62320 requests connection cookie.
+[21:37:05] [connection] incoming connection: 127.0.0.1:62320 id: 0
+[21:37:05] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:37:13] Dohvacanje podataka...
+[21:39:04] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:40:12] filterscripts = ""  (string)
+[21:40:12] 
+[21:40:12] Server Plugins
+[21:40:12] --------------
+[21:40:12]  Loading plugin: sscanf
+[21:40:12] 
+
+[21:40:12]  ===============================
+
+[21:40:12]       sscanf plugin loaded.     
+
+[21:40:12]          Version:  2.8.2        
+
+[21:40:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:40:12]  ===============================
+
+[21:40:12]   Loaded.
+[21:40:12]  Loading plugin: mysql
+[21:40:12] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:40:12]   Loaded.
+[21:40:12]  Loaded 2 plugins.
+
+[21:40:12] 
+[21:40:12] Filterscripts
+[21:40:12] ---------------
+[21:40:12]   Loaded 0 filterscripts.
+
+[21:40:12] Povezivanje baze...
+[21:40:12] Baza uspjesno povezana!
+[21:40:12] Number of vehicle models: 0
+[21:40:12] Ucitavanje vozila...
+[21:40:12] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:40:12] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:40:12] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:40:12] Ucitano vozila: 3
+[21:40:36] [connection] 127.0.0.1:59509 requests connection cookie.
+[21:40:37] [connection] incoming connection: 127.0.0.1:59509 id: 0
+[21:40:38] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:40:42] Dohvacanje podataka...
+[21:40:49] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:41:20] filterscripts = ""  (string)
+[21:41:20] 
+[21:41:20] Server Plugins
+[21:41:20] --------------
+[21:41:20]  Loading plugin: sscanf
+[21:41:20] 
+
+[21:41:20]  ===============================
+
+[21:41:20]       sscanf plugin loaded.     
+
+[21:41:20]          Version:  2.8.2        
+
+[21:41:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:41:20]  ===============================
+
+[21:41:20]   Loaded.
+[21:41:20]  Loading plugin: mysql
+[21:41:20] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:41:20]   Loaded.
+[21:41:20]  Loaded 2 plugins.
+
+[21:41:20] 
+[21:41:20] Filterscripts
+[21:41:20] ---------------
+[21:41:20]   Loaded 0 filterscripts.
+
+[21:41:20] Povezivanje baze...
+[21:41:20] Baza uspjesno povezana!
+[21:41:20] Number of vehicle models: 0
+[21:41:20] Ucitavanje vozila...
+[21:41:20] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:41:20] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:41:20] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:41:20] Ucitano vozila: 3
+[21:41:39] [connection] 127.0.0.1:49794 requests connection cookie.
+[21:41:40] [connection] incoming connection: 127.0.0.1:49794 id: 0
+[21:41:40] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:41:43] Dohvacanje podataka...
+[21:42:21] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:43:47] filterscripts = ""  (string)
+[21:43:47] 
+[21:43:47] Server Plugins
+[21:43:47] --------------
+[21:43:47]  Loading plugin: sscanf
+[21:43:47] 
+
+[21:43:47]  ===============================
+
+[21:43:47]       sscanf plugin loaded.     
+
+[21:43:47]          Version:  2.8.2        
+
+[21:43:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:43:47]  ===============================
+
+[21:43:47]   Loaded.
+[21:43:47]  Loading plugin: mysql
+[21:43:47] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:43:47]   Loaded.
+[21:43:47]  Loaded 2 plugins.
+
+[21:43:47] 
+[21:43:47] Filterscripts
+[21:43:47] ---------------
+[21:43:47]   Loaded 0 filterscripts.
+
+[21:43:47] Povezivanje baze...
+[21:43:47] Baza uspjesno povezana!
+[21:43:47] Number of vehicle models: 0
+[21:43:47] Ucitavanje vozila...
+[21:43:47] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:43:47] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:43:47] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:43:47] Ucitano vozila: 3
+[21:44:11] [connection] 127.0.0.1:50612 requests connection cookie.
+[21:44:12] [connection] incoming connection: 127.0.0.1:50612 id: 0
+[21:44:12] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:44:17] Dohvacanje podataka...
+[21:44:55] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:56] filterscripts = ""  (string)
+[21:45:56] 
+[21:45:56] Server Plugins
+[21:45:56] --------------
+[21:45:56]  Loading plugin: sscanf
+[21:45:56] 
+
+[21:45:56]  ===============================
+
+[21:45:56]       sscanf plugin loaded.     
+
+[21:45:56]          Version:  2.8.2        
+
+[21:45:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:45:56]  ===============================
+
+[21:45:56]   Loaded.
+[21:45:56]  Loading plugin: mysql
+[21:45:56] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:45:56]   Loaded.
+[21:45:56]  Loaded 2 plugins.
+
+[21:45:56] 
+[21:45:56] Filterscripts
+[21:45:56] ---------------
+[21:45:56]   Loaded 0 filterscripts.
+
+[21:45:56] Povezivanje baze...
+[21:45:56] Baza uspjesno povezana!
+[21:45:56] Number of vehicle models: 0
+[21:45:56] Ucitavanje vozila...
+[21:45:56] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:45:56] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:45:56] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:45:56] Ucitano vozila: 3
+[21:46:15] [connection] 127.0.0.1:63853 requests connection cookie.
+[21:46:16] [connection] incoming connection: 127.0.0.1:63853 id: 0
+[21:46:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:46:20] Dohvacanje podataka...
+[21:46:52] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:53] filterscripts = ""  (string)
+[21:51:53] 
+[21:51:53] Server Plugins
+[21:51:53] --------------
+[21:51:53]  Loading plugin: sscanf
+[21:51:53] 
+
+[21:51:53]  ===============================
+
+[21:51:53]       sscanf plugin loaded.     
+
+[21:51:53]          Version:  2.8.2        
+
+[21:51:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:51:53]  ===============================
+
+[21:51:53]   Loaded.
+[21:51:53]  Loading plugin: mysql
+[21:51:53] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:51:53]   Loaded.
+[21:51:53]  Loaded 2 plugins.
+
+[21:51:53] 
+[21:51:53] Filterscripts
+[21:51:53] ---------------
+[21:51:53]   Loaded 0 filterscripts.
+
+[21:51:53] Povezivanje baze...
+[21:51:53] Baza uspjesno povezana!
+[21:51:53] Number of vehicle models: 0
+[21:51:53] Ucitavanje vozila...
+[21:51:53] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=
+[21:51:53] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:51:53] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=
+[21:51:53] Ucitano vozila: 3
+[21:52:11] [connection] 127.0.0.1:64812 requests connection cookie.
+[21:52:12] [connection] incoming connection: 127.0.0.1:64812 id: 0
+[21:52:13] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:52:15] Dohvacanje podataka...
+[21:52:42] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:58:58] filterscripts = ""  (string)
+[21:58:58] 
+[21:58:58] Server Plugins
+[21:58:58] --------------
+[21:58:58]  Loading plugin: sscanf
+[21:58:58] 
+
+[21:58:58]  ===============================
+
+[21:58:58]       sscanf plugin loaded.     
+
+[21:58:58]          Version:  2.8.2        
+
+[21:58:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:58:58]  ===============================
+
+[21:58:58]   Loaded.
+[21:58:58]  Loading plugin: mysql
+[21:58:58] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:58:58]   Loaded.
+[21:58:58]  Loaded 2 plugins.
+
+[21:58:58] 
+[21:58:58] Filterscripts
+[21:58:58] ---------------
+[21:58:58]   Loaded 0 filterscripts.
+
+[21:58:58] Povezivanje baze...
+[21:58:58] Baza uspjesno povezana!
+[21:58:58] Number of vehicle models: 0
+[21:58:58] Ucitavanje vozila...
+[21:58:58] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:58:58] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[21:58:58] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=Nitko
+[21:58:58] Ucitano vozila: 3
+[21:59:16] [connection] 127.0.0.1:59307 requests connection cookie.
+[21:59:17] [connection] incoming connection: 127.0.0.1:59307 id: 0
+[21:59:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:59:31] Dohvacanje podataka...
+[22:01:29] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:04:11] filterscripts = ""  (string)
+[22:04:11] 
+[22:04:11] Server Plugins
+[22:04:11] --------------
+[22:04:11]  Loading plugin: sscanf
+[22:04:11] 
+
+[22:04:11]  ===============================
+
+[22:04:11]       sscanf plugin loaded.     
+
+[22:04:11]          Version:  2.8.2        
+
+[22:04:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:04:11]  ===============================
+
+[22:04:11]   Loaded.
+[22:04:11]  Loading plugin: mysql
+[22:04:11] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:04:11]   Loaded.
+[22:04:11]  Loaded 2 plugins.
+
+[22:04:11] 
+[22:04:11] Filterscripts
+[22:04:11] ---------------
+[22:04:11]   Loaded 0 filterscripts.
+
+[22:04:11] Povezivanje baze...
+[22:04:11] Baza uspjesno povezana!
+[22:04:11] Number of vehicle models: 0
+[22:04:11] Ucitavanje vozila...
+[22:04:11] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=NULL
+[22:04:11] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[22:04:11] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=NULL
+[22:04:11] Ucitano vozila: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:04:15] filterscripts = ""  (string)
+[22:04:15] 
+[22:04:15] Server Plugins
+[22:04:15] --------------
+[22:04:15]  Loading plugin: sscanf
+[22:04:15] 
+
+[22:04:15]  ===============================
+
+[22:04:15]       sscanf plugin loaded.     
+
+[22:04:15]          Version:  2.8.2        
+
+[22:04:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:04:15]  ===============================
+
+[22:04:15]   Loaded.
+[22:04:15]  Loading plugin: mysql
+[22:04:15] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:04:15]   Loaded.
+[22:04:15]  Loaded 2 plugins.
+
+[22:04:15] 
+[22:04:15] Filterscripts
+[22:04:15] ---------------
+[22:04:15]   Loaded 0 filterscripts.
+
+[22:04:15] Povezivanje baze...
+[22:04:15] Baza uspjesno povezana!
+[22:04:15] Number of vehicle models: 0
+[22:04:15] Ucitavanje vozila...
+[22:04:15] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=NULL
+[22:04:15] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[22:04:15] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=NULL
+[22:04:15] Ucitano vozila: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:20:02] filterscripts = ""  (string)
+[20:20:02] 
+[20:20:02] Server Plugins
+[20:20:02] --------------
+[20:20:02]  Loading plugin: sscanf
+[20:20:02] 
+
+[20:20:02]  ===============================
+
+[20:20:02]       sscanf plugin loaded.     
+
+[20:20:02]          Version:  2.8.2        
+
+[20:20:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:20:02]  ===============================
+
+[20:20:02]   Loaded.
+[20:20:02]  Loading plugin: mysql
+[20:20:02] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:20:02]   Loaded.
+[20:20:02]  Loaded 2 plugins.
+
+[20:20:02] 
+[20:20:02] Filterscripts
+[20:20:02] ---------------
+[20:20:02]   Loaded 0 filterscripts.
+
+[20:20:02] Povezivanje baze...
+[20:20:02] Baza uspjesno povezana!
+[20:20:02] Number of vehicle models: 0
+[20:20:02] Ucitavanje vozila...
+[20:20:02] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:20:02] Vozilo spawnano, ID=2, Model=415, Vlasnik=Vito_Scalleta, Suvlasnik=Hawk_Gotti
+[20:20:02] Vozilo spawnano, ID=3, Model=434, Vlasnik=Tony_Scarface, Suvlasnik=Nitko
+[20:20:02] Ucitano vozila: 3
+[20:20:32] [connection] 127.0.0.1:55758 requests connection cookie.
+[20:20:33] [connection] incoming connection: 127.0.0.1:55758 id: 0
+[20:20:33] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[20:20:39] Dohvacanje podataka...
+[20:24:06] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:37] filterscripts = ""  (string)
+[23:59:37] 
+[23:59:37] Server Plugins
+[23:59:37] --------------
+[23:59:37]  Loading plugin: sscanf
+[23:59:37] 
+
+[23:59:37]  ===============================
+
+[23:59:37]       sscanf plugin loaded.     
+
+[23:59:37]          Version:  2.8.2        
+
+[23:59:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:59:37]  ===============================
+
+[23:59:37]   Loaded.
+[23:59:37]  Loading plugin: mysql
+[23:59:37] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[23:59:37]   Loaded.
+[23:59:37]  Loaded 2 plugins.
+
+[23:59:37] 
+[23:59:37] Filterscripts
+[23:59:37] ---------------
+[23:59:37]   Loaded 0 filterscripts.
+
+[23:59:37] Povezivanje baze...
+[23:59:37] Baza uspjesno povezana!
+[23:59:37] Number of vehicle models: 0
+[23:59:37] Ucitavanje vozila...
+[23:59:37] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[23:59:37] Ucitano vozila: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:00:20] filterscripts = ""  (string)
+[00:00:20] 
+[00:00:20] Server Plugins
+[00:00:20] --------------
+[00:00:20]  Loading plugin: sscanf
+[00:00:20] 
+
+[00:00:20]  ===============================
+
+[00:00:20]       sscanf plugin loaded.     
+
+[00:00:20]          Version:  2.8.2        
+
+[00:00:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:00:20]  ===============================
+
+[00:00:20]   Loaded.
+[00:00:20]  Loading plugin: mysql
+[00:00:20] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:00:20]   Loaded.
+[00:00:20]  Loaded 2 plugins.
+
+[00:00:20] 
+[00:00:20] Filterscripts
+[00:00:20] ---------------
+[00:00:20]   Loaded 0 filterscripts.
+
+[00:00:20] Povezivanje baze...
+[00:00:20] Baza uspjesno povezana!
+[00:00:20] Number of vehicle models: 0
+[00:00:20] Ucitavanje vozila...
+[00:00:20] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:00:20] Ucitano vozila: 1
+[00:00:20] Ucitavanje kuca...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:13] filterscripts = ""  (string)
+[00:01:13] 
+[00:01:13] Server Plugins
+[00:01:13] --------------
+[00:01:13]  Loading plugin: sscanf
+[00:01:13] 
+
+[00:01:13]  ===============================
+
+[00:01:13]       sscanf plugin loaded.     
+
+[00:01:13]          Version:  2.8.2        
+
+[00:01:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:01:13]  ===============================
+
+[00:01:13]   Loaded.
+[00:01:13]  Loading plugin: mysql
+[00:01:13] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:01:13]   Loaded.
+[00:01:13]  Loaded 2 plugins.
+
+[00:01:13] 
+[00:01:13] Filterscripts
+[00:01:13] ---------------
+[00:01:13]   Loaded 0 filterscripts.
+
+[00:01:13] Povezivanje baze...
+[00:01:13] Baza uspjesno povezana!
+[00:01:13] Number of vehicle models: 0
+[00:01:13] Ucitavanje vozila...
+[00:01:13] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:01:13] Ucitano vozila: 1
+[00:01:13] Ucitavanje kuca...
+[00:01:13] Nema kuca
+[00:01:49] [connection] 127.0.0.1:60017 requests connection cookie.
+[00:01:50] [connection] incoming connection: 127.0.0.1:60017 id: 0
+[00:01:51] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[00:01:55] Dohvacanje podataka...
+[00:02:42] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:13:13] filterscripts = ""  (string)
+[00:13:13] 
+[00:13:13] Server Plugins
+[00:13:13] --------------
+[00:13:13]  Loading plugin: sscanf
+[00:13:13] 
+
+[00:13:13]  ===============================
+
+[00:13:13]       sscanf plugin loaded.     
+
+[00:13:13]          Version:  2.8.2        
+
+[00:13:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:13:13]  ===============================
+
+[00:13:13]   Loaded.
+[00:13:13]  Loading plugin: mysql
+[00:13:13] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:13:13]   Loaded.
+[00:13:13]  Loaded 2 plugins.
+
+[00:13:13] 
+[00:13:13] Filterscripts
+[00:13:13] ---------------
+[00:13:13]   Loaded 0 filterscripts.
+
+[00:13:13] Povezivanje baze...
+[00:13:13] Baza uspjesno povezana!
+[00:13:13] Number of vehicle models: 0
+[00:13:13] Ucitavanje vozila...
+[00:13:13] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:13:13] Ucitano vozila: 1
+[00:13:13] Ucitavanje kuca...
+[00:13:13] Nema kuca
+[00:15:02] [connection] 127.0.0.1:62488 requests connection cookie.
+[00:15:03] [connection] incoming connection: 127.0.0.1:62488 id: 0
+[00:15:03] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[00:15:06] Dohvacanje podataka...
+[00:18:13] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:26:28] filterscripts = ""  (string)
+[00:26:28] 
+[00:26:28] Server Plugins
+[00:26:28] --------------
+[00:26:28]  Loading plugin: sscanf
+[00:26:28] 
+
+[00:26:28]  ===============================
+
+[00:26:28]       sscanf plugin loaded.     
+
+[00:26:28]          Version:  2.8.2        
+
+[00:26:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:26:28]  ===============================
+
+[00:26:28]   Loaded.
+[00:26:28]  Loading plugin: mysql
+[00:26:28] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:26:28]   Loaded.
+[00:26:28]  Loaded 2 plugins.
+
+[00:26:28] 
+[00:26:28] Filterscripts
+[00:26:28] ---------------
+[00:26:28]   Loaded 0 filterscripts.
+
+[00:26:28] Povezivanje baze...
+[00:26:28] Baza uspjesno povezana!
+[00:26:28] Number of vehicle models: 0
+[00:26:28] Ucitavanje vozila...
+[00:26:28] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:26:28] Ucitano vozila: 1
+[00:26:28] Ucitavanje kuca...
+[00:26:28] Nema kuca
+[00:26:48] [connection] 127.0.0.1:60189 requests connection cookie.
+[00:26:49] [connection] incoming connection: 127.0.0.1:60189 id: 0
+[00:26:49] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[00:26:51] Dohvacanje podataka...
+[00:27:06] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:27:35] filterscripts = ""  (string)
+[00:27:35] 
+[00:27:35] Server Plugins
+[00:27:35] --------------
+[00:27:35]  Loading plugin: sscanf
+[00:27:35] 
+
+[00:27:35]  ===============================
+
+[00:27:35]       sscanf plugin loaded.     
+
+[00:27:35]          Version:  2.8.2        
+
+[00:27:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:27:35]  ===============================
+
+[00:27:35]   Loaded.
+[00:27:35]  Loading plugin: mysql
+[00:27:35] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:27:35]   Loaded.
+[00:27:35]  Loaded 2 plugins.
+
+[00:27:35] 
+[00:27:35] Filterscripts
+[00:27:35] ---------------
+[00:27:35]   Loaded 0 filterscripts.
+
+[00:27:35] Povezivanje baze...
+[00:27:35] Baza uspjesno povezana!
+[00:27:35] Number of vehicle models: 0
+[00:27:35] Ucitavanje vozila...
+[00:27:35] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:27:35] Ucitano vozila: 1
+[00:27:35] Ucitavanje kuca...
+[00:27:35] Nema kuca
+[00:27:54] [connection] 127.0.0.1:59477 requests connection cookie.
+[00:27:55] [connection] incoming connection: 127.0.0.1:59477 id: 0
+[00:27:55] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[00:27:58] Dohvacanje podataka...
+[00:28:40] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:32:54] filterscripts = ""  (string)
+[00:32:54] 
+[00:32:54] Server Plugins
+[00:32:54] --------------
+[00:32:54]  Loading plugin: sscanf
+[00:32:54] 
+
+[00:32:54]  ===============================
+
+[00:32:54]       sscanf plugin loaded.     
+
+[00:32:54]          Version:  2.8.2        
+
+[00:32:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:32:54]  ===============================
+
+[00:32:54]   Loaded.
+[00:32:54]  Loading plugin: mysql
+[00:32:54] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:32:54]   Loaded.
+[00:32:54]  Loaded 2 plugins.
+
+[00:32:54] 
+[00:32:54] Filterscripts
+[00:32:54] ---------------
+[00:32:54]   Loaded 0 filterscripts.
+
+[00:32:54] Povezivanje baze...
+[00:32:54] Baza uspjesno povezana!
+[00:32:54] Number of vehicle models: 0
+[00:32:54] Ucitavanje vozila...
+[00:32:54] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:32:54] Ucitano vozila: 1
+[00:32:54] Ucitavanje kuca...
+[00:32:54] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[00:32:54] Ucitano kuca: 1
+[00:33:16] [connection] 127.0.0.1:59688 requests connection cookie.
+[00:33:17] [connection] incoming connection: 127.0.0.1:59688 id: 0
+[00:33:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[00:33:20] Dohvacanje podataka...
+[00:33:45] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:41:14] filterscripts = ""  (string)
+[00:41:14] 
+[00:41:14] Server Plugins
+[00:41:14] --------------
+[00:41:14]  Loading plugin: sscanf
+[00:41:14] 
+
+[00:41:14]  ===============================
+
+[00:41:14]       sscanf plugin loaded.     
+
+[00:41:14]          Version:  2.8.2        
+
+[00:41:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:41:14]  ===============================
+
+[00:41:14]   Loaded.
+[00:41:14]  Loading plugin: mysql
+[00:41:14] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:41:14]   Loaded.
+[00:41:14]  Loaded 2 plugins.
+
+[00:41:14] 
+[00:41:14] Filterscripts
+[00:41:14] ---------------
+[00:41:14]   Loaded 0 filterscripts.
+
+[00:41:14] Povezivanje baze...
+[00:41:14] Baza uspjesno povezana!
+[00:41:14] Number of vehicle models: 0
+[00:41:15] Ucitavanje vozila...
+[00:41:15] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[00:41:15] Ucitano vozila: 1
+[00:41:15] Ucitavanje kuca...
+[00:41:15] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[00:41:15] Ucitano kuca: 1
+[00:41:33] [connection] 127.0.0.1:65042 requests connection cookie.
+[00:41:34] [connection] incoming connection: 127.0.0.1:65042 id: 0
+[00:41:35] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[00:41:38] Dohvacanje podataka...
+[00:42:04] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:45] filterscripts = ""  (string)
+[18:08:45] 
+[18:08:45] Server Plugins
+[18:08:45] --------------
+[18:08:45]  Loading plugin: sscanf
+[18:08:45] 
+
+[18:08:45]  ===============================
+
+[18:08:45]       sscanf plugin loaded.     
+
+[18:08:45]          Version:  2.8.2        
+
+[18:08:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:08:45]  ===============================
+
+[18:08:45]   Loaded.
+[18:08:45]  Loading plugin: mysql
+[18:08:45] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:08:45]   Loaded.
+[18:08:45]  Loaded 2 plugins.
+
+[18:08:46] 
+[18:08:46] Filterscripts
+[18:08:46] ---------------
+[18:08:46]   Loaded 0 filterscripts.
+
+[18:08:46] Povezivanje baze...
+[18:08:46] Baza uspjesno povezana!
+[18:08:46] Number of vehicle models: 0
+[18:08:46] Ucitavanje vozila...
+[18:08:46] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[18:08:46] Ucitano vozila: 1
+[18:08:46] Ucitavanje kuca...
+[18:08:46] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[18:08:46] Ucitano kuca: 1
+[18:09:10] [connection] 127.0.0.1:62295 requests connection cookie.
+[18:09:11] [connection] incoming connection: 127.0.0.1:62295 id: 0
+[18:09:12] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[18:09:14] Dohvacanje podataka...
+[18:11:46] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:36:32] filterscripts = ""  (string)
+[20:36:32] 
+[20:36:32] Server Plugins
+[20:36:32] --------------
+[20:36:32]  Loading plugin: sscanf
+[20:36:32] 
+
+[20:36:32]  ===============================
+
+[20:36:32]       sscanf plugin loaded.     
+
+[20:36:32]          Version:  2.8.2        
+
+[20:36:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:36:32]  ===============================
+
+[20:36:32]   Loaded.
+[20:36:32]  Loading plugin: mysql
+[20:36:32] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:36:32]   Loaded.
+[20:36:32]  Loaded 2 plugins.
+
+[20:36:32] 
+[20:36:32] Filterscripts
+[20:36:32] ---------------
+[20:36:32]   Loaded 0 filterscripts.
+
+[20:36:32] Povezivanje baze...
+[20:36:32] Baza uspjesno povezana!
+[20:36:32] Number of vehicle models: 0
+[20:36:32] Ucitavanje vozila...
+[20:36:32] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:36:32] Ucitano vozila: 1
+[20:36:33] Ucitavanje kuca...
+[20:36:33] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:36:33] Ucitano kuca: 1
+[20:36:33] Ucitavanje koordinata...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:37:02] filterscripts = ""  (string)
+[20:37:02] 
+[20:37:02] Server Plugins
+[20:37:02] --------------
+[20:37:02]  Loading plugin: sscanf
+[20:37:02] 
+
+[20:37:02]  ===============================
+
+[20:37:02]       sscanf plugin loaded.     
+
+[20:37:02]          Version:  2.8.2        
+
+[20:37:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:37:02]  ===============================
+
+[20:37:02]   Loaded.
+[20:37:02]  Loading plugin: mysql
+[20:37:02] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:37:02]   Loaded.
+[20:37:02]  Loaded 2 plugins.
+
+[20:37:02] 
+[20:37:02] Filterscripts
+[20:37:02] ---------------
+[20:37:02]   Loaded 0 filterscripts.
+
+[20:37:02] Povezivanje baze...
+[20:37:02] Baza uspjesno povezana!
+[20:37:02] Number of vehicle models: 0
+[20:37:02] Ucitavanje vozila...
+[20:37:02] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:37:02] Ucitano vozila: 1
+[20:37:02] Ucitavanje kuca...
+[20:37:02] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:37:02] Ucitano kuca: 1
+[20:37:02] Ucitavanje koordinata...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:41:27] filterscripts = ""  (string)
+[20:41:27] 
+[20:41:27] Server Plugins
+[20:41:27] --------------
+[20:41:27]  Loading plugin: sscanf
+[20:41:27] 
+
+[20:41:27]  ===============================
+
+[20:41:27]       sscanf plugin loaded.     
+
+[20:41:27]          Version:  2.8.2        
+
+[20:41:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:41:27]  ===============================
+
+[20:41:27]   Loaded.
+[20:41:27]  Loading plugin: mysql
+[20:41:27] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:41:27]   Loaded.
+[20:41:27]  Loaded 2 plugins.
+
+[20:41:27] 
+[20:41:27] Filterscripts
+[20:41:27] ---------------
+[20:41:27]   Loaded 0 filterscripts.
+
+[20:41:27] Povezivanje baze...
+[20:41:27] Baza uspjesno povezana!
+[20:41:27] Number of vehicle models: 0
+[20:41:27] Ucitavanje vozila...
+[20:41:27] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:41:27] Ucitano vozila: 1
+[20:41:27] Ucitavanje kuca...
+[20:41:27] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:41:27] Ucitano kuca: 1
+[20:41:27] Ucitavanje koordinata...
+[20:41:27] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[20:41:27] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[20:41:27] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[20:41:27] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[20:41:27] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:42:10] filterscripts = ""  (string)
+[20:42:10] 
+[20:42:10] Server Plugins
+[20:42:10] --------------
+[20:42:10]  Loading plugin: sscanf
+[20:42:10] 
+
+[20:42:10]  ===============================
+
+[20:42:10]       sscanf plugin loaded.     
+
+[20:42:10]          Version:  2.8.2        
+
+[20:42:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:42:10]  ===============================
+
+[20:42:10]   Loaded.
+[20:42:10]  Loading plugin: mysql
+[20:42:10] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:42:10]   Loaded.
+[20:42:10]  Loaded 2 plugins.
+
+[20:42:10] 
+[20:42:10] Filterscripts
+[20:42:10] ---------------
+[20:42:10]   Loaded 0 filterscripts.
+
+[20:42:10] Povezivanje baze...
+[20:42:10] Baza uspjesno povezana!
+[20:42:10] Number of vehicle models: 0
+[20:42:10] Ucitavanje vozila...
+[20:42:10] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:42:10] Ucitano vozila: 1
+[20:42:10] Ucitavanje kuca...
+[20:42:10] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:42:10] Ucitano kuca: 1
+[20:42:10] Ucitavanje koordinata...
+[20:42:10] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[20:42:10] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[20:42:10] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[20:42:10] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[20:42:10] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:42:38] filterscripts = ""  (string)
+[20:42:38] 
+[20:42:38] Server Plugins
+[20:42:38] --------------
+[20:42:38]  Loading plugin: sscanf
+[20:42:38] 
+
+[20:42:38]  ===============================
+
+[20:42:38]       sscanf plugin loaded.     
+
+[20:42:38]          Version:  2.8.2        
+
+[20:42:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:42:38]  ===============================
+
+[20:42:38]   Loaded.
+[20:42:38]  Loading plugin: mysql
+[20:42:38] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:42:38]   Loaded.
+[20:42:38]  Loaded 2 plugins.
+
+[20:42:38] 
+[20:42:38] Filterscripts
+[20:42:38] ---------------
+[20:42:38]   Loaded 0 filterscripts.
+
+[20:42:38] Povezivanje baze...
+[20:42:38] Baza uspjesno povezana!
+[20:42:38] Number of vehicle models: 0
+[20:42:38] Ucitavanje vozila...
+[20:42:38] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:42:38] Ucitano vozila: 1
+[20:42:38] Ucitavanje kuca...
+[20:42:38] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:42:38] Ucitano kuca: 1
+[20:42:38] Ucitavanje koordinata...
+[20:42:38] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[20:42:38] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[20:42:38] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[20:42:38] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[20:42:38] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[20:42:38] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[20:42:38] Ucitavanje koordinata zavrseno!
+[20:43:01] [connection] 127.0.0.1:49810 requests connection cookie.
+[20:43:02] [connection] incoming connection: 127.0.0.1:49810 id: 0
+[20:43:03] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[20:43:05] Dohvacanje podataka...
+[20:43:34] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:43:46] filterscripts = ""  (string)
+[20:43:46] 
+[20:43:46] Server Plugins
+[20:43:46] --------------
+[20:43:46]  Loading plugin: sscanf
+[20:43:46] 
+
+[20:43:46]  ===============================
+
+[20:43:46]       sscanf plugin loaded.     
+
+[20:43:46]          Version:  2.8.2        
+
+[20:43:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:43:46]  ===============================
+
+[20:43:46]   Loaded.
+[20:43:46]  Loading plugin: mysql
+[20:43:46] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:43:46]   Loaded.
+[20:43:46]  Loaded 2 plugins.
+
+[20:43:46] 
+[20:43:46] Filterscripts
+[20:43:46] ---------------
+[20:43:46]   Loaded 0 filterscripts.
+
+[20:43:46] Povezivanje baze...
+[20:43:46] Baza uspjesno povezana!
+[20:43:46] Number of vehicle models: 0
+[20:43:46] Ucitavanje vozila...
+[20:43:46] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:43:46] Ucitano vozila: 1
+[20:43:46] Ucitavanje kuca...
+[20:43:46] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:43:46] Ucitano kuca: 1
+[20:43:46] Ucitavanje koordinata...
+[20:43:46] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[20:43:46] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[20:43:46] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[20:43:46] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[20:43:46] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[20:43:46] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[20:43:46] Ucitavanje koordinata zavrseno!
+[20:44:27] [connection] 127.0.0.1:50967 requests connection cookie.
+[20:44:28] [connection] incoming connection: 127.0.0.1:50967 id: 0
+[20:44:28] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[20:44:31] Dohvacanje podataka...
+[20:51:07] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:59:51] filterscripts = ""  (string)
+[20:59:51] 
+[20:59:51] Server Plugins
+[20:59:51] --------------
+[20:59:51]  Loading plugin: sscanf
+[20:59:51] 
+
+[20:59:51]  ===============================
+
+[20:59:51]       sscanf plugin loaded.     
+
+[20:59:51]          Version:  2.8.2        
+
+[20:59:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:59:51]  ===============================
+
+[20:59:51]   Loaded.
+[20:59:51]  Loading plugin: mysql
+[20:59:51] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[20:59:51]   Loaded.
+[20:59:51]  Loaded 2 plugins.
+
+[20:59:51] 
+[20:59:51] Filterscripts
+[20:59:51] ---------------
+[20:59:51]   Loaded 0 filterscripts.
+
+[20:59:51] Povezivanje baze...
+[20:59:51] Baza uspjesno povezana!
+[20:59:51] Number of vehicle models: 0
+[20:59:51] Ucitavanje vozila...
+[20:59:51] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[20:59:51] Ucitano vozila: 1
+[20:59:51] Ucitavanje kuca...
+[20:59:51] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[20:59:51] Ucitano kuca: 1
+[20:59:51] Ucitavanje koordinata...
+[20:59:51] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[20:59:51] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[20:59:51] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[20:59:51] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[20:59:51] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[20:59:51] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[20:59:51] Ucitavanje koordinata zavrseno!
+[21:00:16] [connection] 127.0.0.1:60109 requests connection cookie.
+[21:00:17] [connection] incoming connection: 127.0.0.1:60109 id: 0
+[21:00:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:00:20] Dohvacanje podataka...
+[21:02:36] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:11:39] filterscripts = ""  (string)
+[21:11:39] 
+[21:11:39] Server Plugins
+[21:11:39] --------------
+[21:11:39]  Loading plugin: sscanf
+[21:11:39] 
+
+[21:11:39]  ===============================
+
+[21:11:39]       sscanf plugin loaded.     
+
+[21:11:39]          Version:  2.8.2        
+
+[21:11:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:11:39]  ===============================
+
+[21:11:39]   Loaded.
+[21:11:39]  Loading plugin: mysql
+[21:11:39] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:11:39]   Loaded.
+[21:11:39]  Loaded 2 plugins.
+
+[21:11:39] 
+[21:11:39] Filterscripts
+[21:11:39] ---------------
+[21:11:39]   Loaded 0 filterscripts.
+
+[21:11:39] Povezivanje baze...
+[21:11:39] Baza uspjesno povezana!
+[21:11:39] Number of vehicle models: 0
+[21:11:39] Ucitavanje vozila...
+[21:11:39] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:11:39] Ucitano vozila: 1
+[21:11:39] Ucitavanje kuca...
+[21:11:39] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:11:39] Ucitano kuca: 1
+[21:11:39] Ucitavanje koordinata...
+[21:11:39] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:11:39] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:11:39] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:11:39] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:11:39] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:11:39] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:11:39] Ucitavanje koordinata zavrseno!
+[21:12:00] [connection] 127.0.0.1:55448 requests connection cookie.
+[21:12:01] [connection] incoming connection: 127.0.0.1:55448 id: 0
+[21:12:01] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:12:03] Dohvacanje podataka...
+[21:13:00] Stvorena nova kuca! '
+[21:13:45] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:14:28] filterscripts = ""  (string)
+[21:14:28] 
+[21:14:28] Server Plugins
+[21:14:28] --------------
+[21:14:28]  Loading plugin: sscanf
+[21:14:28] 
+
+[21:14:28]  ===============================
+
+[21:14:28]       sscanf plugin loaded.     
+
+[21:14:28]          Version:  2.8.2        
+
+[21:14:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:14:28]  ===============================
+
+[21:14:28]   Loaded.
+[21:14:28]  Loading plugin: mysql
+[21:14:28] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:14:28]   Loaded.
+[21:14:28]  Loaded 2 plugins.
+
+[21:14:28] 
+[21:14:28] Filterscripts
+[21:14:28] ---------------
+[21:14:28]   Loaded 0 filterscripts.
+
+[21:14:28] Povezivanje baze...
+[21:14:28] Baza uspjesno povezana!
+[21:14:28] Number of vehicle models: 0
+[21:14:28] Ucitavanje vozila...
+[21:14:28] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:14:28] Ucitano vozila: 1
+[21:14:28] Ucitavanje kuca...
+[21:14:28] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:14:28] Ucitano kuca: 1
+[21:14:28] Ucitavanje koordinata...
+[21:14:28] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:14:28] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:14:28] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:14:28] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:14:28] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:14:28] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:14:28] Ucitavanje koordinata zavrseno!
+[21:14:48] [connection] 127.0.0.1:57337 requests connection cookie.
+[21:14:49] [connection] incoming connection: 127.0.0.1:57337 id: 0
+[21:14:49] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:14:52] Dohvacanje podataka...
+[21:15:35] Stvorena nova kuca! '
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:23:46] filterscripts = ""  (string)
+[21:23:46] 
+[21:23:46] Server Plugins
+[21:23:46] --------------
+[21:23:46]  Loading plugin: sscanf
+[21:23:46] 
+
+[21:23:46]  ===============================
+
+[21:23:46]       sscanf plugin loaded.     
+
+[21:23:46]          Version:  2.8.2        
+
+[21:23:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:23:46]  ===============================
+
+[21:23:46]   Loaded.
+[21:23:46]  Loading plugin: mysql
+[21:23:46] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:23:46]   Loaded.
+[21:23:46]  Loaded 2 plugins.
+
+[21:23:46] 
+[21:23:46] Filterscripts
+[21:23:46] ---------------
+[21:23:46]   Loaded 0 filterscripts.
+
+[21:23:46] Povezivanje baze...
+[21:23:46] Baza uspjesno povezana!
+[21:23:46] Number of vehicle models: 0
+[21:23:46] Ucitavanje vozila...
+[21:23:46] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:23:46] Ucitano vozila: 1
+[21:23:46] Ucitavanje kuca...
+[21:23:46] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:23:46] Ucitano kuca: 1
+[21:23:46] Ucitavanje koordinata...
+[21:23:46] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:23:46] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:23:46] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:23:46] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:23:46] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:23:46] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:23:46] Ucitavanje koordinata zavrseno!
+[21:24:32] [connection] 127.0.0.1:54029 requests connection cookie.
+[21:24:33] [connection] incoming connection: 127.0.0.1:54029 id: 0
+[21:24:33] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:24:36] Dohvacanje podataka...
+[21:25:34] Stvorena nova kuca! '
+[21:26:23] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:29:59] filterscripts = ""  (string)
+[21:29:59] 
+[21:29:59] Server Plugins
+[21:29:59] --------------
+[21:29:59]  Loading plugin: sscanf
+[21:29:59] 
+
+[21:29:59]  ===============================
+
+[21:29:59]       sscanf plugin loaded.     
+
+[21:29:59]          Version:  2.8.2        
+
+[21:29:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:29:59]  ===============================
+
+[21:29:59]   Loaded.
+[21:29:59]  Loading plugin: mysql
+[21:29:59] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:29:59]   Loaded.
+[21:29:59]  Loaded 2 plugins.
+
+[21:29:59] 
+[21:29:59] Filterscripts
+[21:29:59] ---------------
+[21:29:59]   Loaded 0 filterscripts.
+
+[21:29:59] Povezivanje baze...
+[21:29:59] Baza uspjesno povezana!
+[21:29:59] Number of vehicle models: 0
+[21:29:59] Ucitavanje vozila...
+[21:29:59] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:29:59] Ucitano vozila: 1
+[21:29:59] Ucitavanje kuca...
+[21:29:59] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:29:59] Ucitano kuca: 1
+[21:29:59] Ucitavanje koordinata...
+[21:29:59] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:29:59] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:29:59] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:29:59] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:29:59] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:29:59] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:29:59] Ucitavanje koordinata zavrseno!
+[21:30:18] [connection] 127.0.0.1:52515 requests connection cookie.
+[21:30:19] [connection] incoming connection: 127.0.0.1:52515 id: 0
+[21:30:20] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:30:23] Dohvacanje podataka...
+[21:30:37] Stvorena nova kuca! '
+[21:31:57] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:39:44] filterscripts = ""  (string)
+[21:39:44] 
+[21:39:44] Server Plugins
+[21:39:44] --------------
+[21:39:44]  Loading plugin: sscanf
+[21:39:44] 
+
+[21:39:44]  ===============================
+
+[21:39:44]       sscanf plugin loaded.     
+
+[21:39:44]          Version:  2.8.2        
+
+[21:39:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:39:44]  ===============================
+
+[21:39:44]   Loaded.
+[21:39:44]  Loading plugin: mysql
+[21:39:44] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:39:44]   Loaded.
+[21:39:44]  Loaded 2 plugins.
+
+[21:39:44] 
+[21:39:44] Filterscripts
+[21:39:44] ---------------
+[21:39:44]   Loaded 0 filterscripts.
+
+[21:39:44] Povezivanje baze...
+[21:39:44] Baza uspjesno povezana!
+[21:39:44] Number of vehicle models: 0
+[21:39:44] Ucitavanje vozila...
+[21:39:44] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:39:44] Ucitano vozila: 1
+[21:39:45] Ucitavanje kuca...
+[21:39:45] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:39:45] Ucitano kuca: 1
+[21:39:45] Ucitavanje koordinata...
+[21:39:45] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:39:45] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:39:45] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:39:45] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:39:45] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:39:45] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:39:45] Ucitavanje koordinata zavrseno!
+[21:40:04] [connection] 127.0.0.1:55381 requests connection cookie.
+[21:40:05] [connection] incoming connection: 127.0.0.1:55381 id: 0
+[21:40:05] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:40:12] Dohvacanje podataka...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:49:29] filterscripts = ""  (string)
+[21:49:29] 
+[21:49:29] Server Plugins
+[21:49:29] --------------
+[21:49:29]  Loading plugin: sscanf
+[21:49:29] 
+
+[21:49:29]  ===============================
+
+[21:49:29]       sscanf plugin loaded.     
+
+[21:49:29]          Version:  2.8.2        
+
+[21:49:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:49:29]  ===============================
+
+[21:49:29]   Loaded.
+[21:49:29]  Loading plugin: mysql
+[21:49:29] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:49:29]   Loaded.
+[21:49:29]  Loaded 2 plugins.
+
+[21:49:29] 
+[21:49:29] Filterscripts
+[21:49:29] ---------------
+[21:49:29]   Loaded 0 filterscripts.
+
+[21:49:29] Povezivanje baze...
+[21:49:29] Baza uspjesno povezana!
+[21:49:29] Number of vehicle models: 0
+[21:49:29] Ucitavanje vozila...
+[21:49:29] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:49:29] Ucitano vozila: 1
+[21:49:29] Ucitavanje kuca...
+[21:49:29] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:49:29] Ucitano kuca: 1
+[21:49:29] Ucitavanje koordinata...
+[21:49:29] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:49:29] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:49:29] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:49:29] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:49:29] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:49:29] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:49:29] Ucitavanje koordinata zavrseno!
+[21:49:48] [connection] 127.0.0.1:57044 requests connection cookie.
+[21:49:49] [connection] incoming connection: 127.0.0.1:57044 id: 0
+[21:49:49] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:49:53] Dohvacanje podataka...
+[21:50:01] Stvorena nova kuca! INSERT INTO kuce (vlasnik, suvlasnik, x, y, z, unutraX, unutraY, unutraZ, cijena, zakljucano, interiorId, level) VALUES ('
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:35] filterscripts = ""  (string)
+[21:51:35] 
+[21:51:35] Server Plugins
+[21:51:35] --------------
+[21:51:35]  Loading plugin: sscanf
+[21:51:35] 
+
+[21:51:35]  ===============================
+
+[21:51:35]       sscanf plugin loaded.     
+
+[21:51:35]          Version:  2.8.2        
+
+[21:51:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:51:35]  ===============================
+
+[21:51:35]   Loaded.
+[21:51:35]  Loading plugin: mysql
+[21:51:35] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[21:51:35]   Loaded.
+[21:51:35]  Loaded 2 plugins.
+
+[21:51:35] 
+[21:51:35] Filterscripts
+[21:51:35] ---------------
+[21:51:35]   Loaded 0 filterscripts.
+
+[21:51:35] Povezivanje baze...
+[21:51:35] Baza uspjesno povezana!
+[21:51:35] Number of vehicle models: 0
+[21:51:35] Ucitavanje vozila...
+[21:51:35] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[21:51:35] Ucitano vozila: 1
+[21:51:35] Ucitavanje kuca...
+[21:51:35] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[21:51:35] Ucitano kuca: 1
+[21:51:35] Ucitavanje koordinata...
+[21:51:35] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[21:51:35] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[21:51:35] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[21:51:35] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[21:51:35] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[21:51:35] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[21:51:35] Ucitavanje koordinata zavrseno!
+[21:51:54] [connection] 127.0.0.1:65133 requests connection cookie.
+[21:51:55] [connection] incoming connection: 127.0.0.1:65133 id: 0
+[21:51:56] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[21:51:57] Dohvacanje podataka...
+[21:52:04] Stvorena nova kuca! INSERT INTO kuce (vlasnik, suvlasnik, x, y, z, unutraX, unutraY, unutraZ, cijena, zakljucano, interiorId, level) VALUES (
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:02:13] filterscripts = ""  (string)
+[22:02:13] 
+[22:02:13] Server Plugins
+[22:02:13] --------------
+[22:02:13]  Loading plugin: sscanf
+[22:02:13] 
+
+[22:02:13]  ===============================
+
+[22:02:13]       sscanf plugin loaded.     
+
+[22:02:13]          Version:  2.8.2        
+
+[22:02:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:02:13]  ===============================
+
+[22:02:13]   Loaded.
+[22:02:13]  Loading plugin: mysql
+[22:02:13] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:02:13]   Loaded.
+[22:02:13]  Loaded 2 plugins.
+
+[22:02:13] 
+[22:02:13] Filterscripts
+[22:02:13] ---------------
+[22:02:13]   Loaded 0 filterscripts.
+
+[22:02:13] Povezivanje baze...
+[22:02:13] Baza uspjesno povezana!
+[22:02:13] Number of vehicle models: 0
+[22:02:13] Ucitavanje vozila...
+[22:02:13] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:02:13] Ucitano vozila: 1
+[22:02:13] Ucitavanje kuca...
+[22:02:13] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:02:13] Ucitano kuca: 1
+[22:02:13] Ucitavanje koordinata...
+[22:02:13] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:02:13] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:02:13] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:02:13] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:02:13] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:02:13] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:02:13] Ucitavanje koordinata zavrseno!
+[22:02:33] [connection] 127.0.0.1:65153 requests connection cookie.
+[22:02:34] [connection] incoming connection: 127.0.0.1:65153 id: 0
+[22:02:34] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[22:02:38] Dohvacanje podataka...
+[22:02:46] Stvorena nova kuca! INSERT INTO kuce (vlasnik, suvlasnik, x, y, z, unutraX, unutraY, unutraZ, cijena, zakljucano, interiorId, level) VALUES ('Test', 'Test2', '-1498.386596', '920.145385', '7.187500', '385.803985', '1471.770019', '1080.209960', '1', '0', '15', '0')
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:05:01] filterscripts = ""  (string)
+[22:05:01] 
+[22:05:01] Server Plugins
+[22:05:01] --------------
+[22:05:01]  Loading plugin: sscanf
+[22:05:01] 
+
+[22:05:01]  ===============================
+
+[22:05:01]       sscanf plugin loaded.     
+
+[22:05:01]          Version:  2.8.2        
+
+[22:05:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:05:01]  ===============================
+
+[22:05:01]   Loaded.
+[22:05:01]  Loading plugin: mysql
+[22:05:01] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:05:01]   Loaded.
+[22:05:01]  Loaded 2 plugins.
+
+[22:05:01] 
+[22:05:01] Filterscripts
+[22:05:01] ---------------
+[22:05:01]   Loaded 0 filterscripts.
+
+[22:05:01] Povezivanje baze...
+[22:05:01] Baza uspjesno povezana!
+[22:05:01] Number of vehicle models: 0
+[22:05:01] Ucitavanje vozila...
+[22:05:01] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:05:01] Ucitano vozila: 1
+[22:05:01] Ucitavanje kuca...
+[22:05:01] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:05:01] Ucitano kuca: 1
+[22:05:01] Ucitavanje koordinata...
+[22:05:01] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:05:01] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:05:01] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:05:01] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:05:01] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:05:01] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:05:01] Ucitavanje koordinata zavrseno!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:11:59] filterscripts = ""  (string)
+[22:11:59] 
+[22:11:59] Server Plugins
+[22:11:59] --------------
+[22:11:59]  Loading plugin: sscanf
+[22:11:59] 
+
+[22:11:59]  ===============================
+
+[22:11:59]       sscanf plugin loaded.     
+
+[22:11:59]          Version:  2.8.2        
+
+[22:11:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:11:59]  ===============================
+
+[22:11:59]   Loaded.
+[22:11:59]  Loading plugin: mysql
+[22:11:59] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:11:59]   Loaded.
+[22:11:59]  Loaded 2 plugins.
+
+[22:11:59] 
+[22:11:59] Filterscripts
+[22:11:59] ---------------
+[22:11:59]   Loaded 0 filterscripts.
+
+[22:11:59] Povezivanje baze...
+[22:11:59] Baza uspjesno povezana!
+[22:11:59] Number of vehicle models: 0
+[22:11:59] Ucitavanje vozila...
+[22:11:59] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:11:59] Ucitano vozila: 1
+[22:11:59] Ucitavanje kuca...
+[22:11:59] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:11:59] Ucitano kuca: 1
+[22:11:59] Ucitavanje koordinata...
+[22:11:59] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:11:59] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:11:59] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:11:59] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:11:59] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:11:59] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:11:59] Ucitavanje koordinata zavrseno!
+[22:12:19] [connection] 127.0.0.1:60599 requests connection cookie.
+[22:12:20] [connection] incoming connection: 127.0.0.1:60599 id: 0
+[22:12:20] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[22:12:22] Dohvacanje podataka...
+[22:12:35] Vlasnik: ZaProdaju, Suvlasnik: Nitko
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:13:43] filterscripts = ""  (string)
+[22:13:43] 
+[22:13:43] Server Plugins
+[22:13:43] --------------
+[22:13:43]  Loading plugin: sscanf
+[22:13:43] 
+
+[22:13:43]  ===============================
+
+[22:13:43]       sscanf plugin loaded.     
+
+[22:13:43]          Version:  2.8.2        
+
+[22:13:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:13:43]  ===============================
+
+[22:13:43]   Loaded.
+[22:13:43]  Loading plugin: mysql
+[22:13:43] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:13:43]   Loaded.
+[22:13:43]  Loaded 2 plugins.
+
+[22:13:43] 
+[22:13:43] Filterscripts
+[22:13:43] ---------------
+[22:13:43]   Loaded 0 filterscripts.
+
+[22:13:43] Povezivanje baze...
+[22:13:43] Baza uspjesno povezana!
+[22:13:43] Number of vehicle models: 0
+[22:13:43] Ucitavanje vozila...
+[22:13:43] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:13:43] Ucitano vozila: 1
+[22:13:43] Ucitavanje kuca...
+[22:13:43] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:13:43] Ucitano kuca: 1
+[22:13:43] Ucitavanje koordinata...
+[22:13:43] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:13:43] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:13:43] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:13:43] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:13:43] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:13:43] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:13:43] Ucitavanje koordinata zavrseno!
+[22:14:03] [connection] 127.0.0.1:61055 requests connection cookie.
+[22:14:04] [connection] incoming connection: 127.0.0.1:61055 id: 0
+[22:14:04] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[22:14:07] Dohvacanje podataka...
+[22:14:15] Stvorena nova kuca! INSERT INTO kuce (vlasnik, suvlasnik, x, y, z, unutraX, unutraY, unutraZ, cijena, zakljucano, interiorId, level) VALUES ('ZaProdaju', 'Nitko', '-1498.386596', '920.145385', '7.187500', '385.803985', '1471.770019', '1080.209960', '1', '0', '15', '0')
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:31] filterscripts = ""  (string)
+[22:15:31] 
+[22:15:31] Server Plugins
+[22:15:31] --------------
+[22:15:31]  Loading plugin: sscanf
+[22:15:31] 
+
+[22:15:31]  ===============================
+
+[22:15:31]       sscanf plugin loaded.     
+
+[22:15:31]          Version:  2.8.2        
+
+[22:15:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:15:31]  ===============================
+
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: mysql
+[22:15:31] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:15:31]   Loaded.
+[22:15:31]  Loaded 2 plugins.
+
+[22:15:31] 
+[22:15:31] Filterscripts
+[22:15:31] ---------------
+[22:15:31]   Loaded 0 filterscripts.
+
+[22:15:31] Povezivanje baze...
+[22:15:31] Baza uspjesno povezana!
+[22:15:31] Number of vehicle models: 0
+[22:15:31] Ucitavanje vozila...
+[22:15:31] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:15:31] Ucitano vozila: 1
+[22:15:31] Ucitavanje kuca...
+[22:15:31] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:15:31] Ucitano kuca: 1
+[22:15:31] Ucitavanje koordinata...
+[22:15:31] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:15:31] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:15:31] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:15:31] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:15:31] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:15:31] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:15:31] Ucitavanje koordinata zavrseno!
+[22:15:51] [connection] 127.0.0.1:62146 requests connection cookie.
+[22:15:52] [connection] incoming connection: 127.0.0.1:62146 id: 0
+[22:15:53] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[22:15:56] Dohvacanje podataka...
+[22:16:44] Stvorena nova kuca! 'ZaProdaju', 'Nitko', '-2018.174072', '970.112121', '45.445312', '225.757003', '1240.000000', '1082.150024', '90000', '0', '7', '3'
+[22:17:43] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:51] filterscripts = ""  (string)
+[22:17:51] 
+[22:17:51] Server Plugins
+[22:17:51] --------------
+[22:17:51]  Loading plugin: sscanf
+[22:17:51] 
+
+[22:17:51]  ===============================
+
+[22:17:51]       sscanf plugin loaded.     
+
+[22:17:51]          Version:  2.8.2        
+
+[22:17:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:17:51]  ===============================
+
+[22:17:51]   Loaded.
+[22:17:51]  Loading plugin: mysql
+[22:17:51] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:17:51]   Loaded.
+[22:17:51]  Loaded 2 plugins.
+
+[22:17:51] 
+[22:17:51] Filterscripts
+[22:17:51] ---------------
+[22:17:51]   Loaded 0 filterscripts.
+
+[22:17:51] Povezivanje baze...
+[22:17:51] Baza uspjesno povezana!
+[22:17:51] Number of vehicle models: 0
+[22:17:52] Ucitavanje vozila...
+[22:17:52] Vozilo spawnano, ID=1, Model=451, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:17:52] Ucitano vozila: 1
+[22:17:52] Ucitavanje kuca...
+[22:17:52] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:17:52] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[22:17:52] Ucitano kuca: 2
+[22:17:52] Ucitavanje koordinata...
+[22:17:52] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:17:52] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:17:52] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:17:52] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:17:52] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:17:52] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:17:52] Ucitavanje koordinata zavrseno!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:18:56] filterscripts = ""  (string)
+[22:18:56] 
+[22:18:56] Server Plugins
+[22:18:56] --------------
+[22:18:56]  Loading plugin: sscanf
+[22:18:56] 
+
+[22:18:56]  ===============================
+
+[22:18:56]       sscanf plugin loaded.     
+
+[22:18:56]          Version:  2.8.2        
+
+[22:18:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:18:56]  ===============================
+
+[22:18:56]   Loaded.
+[22:18:56]  Loading plugin: mysql
+[22:18:56] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[22:18:56]   Loaded.
+[22:18:56]  Loaded 2 plugins.
+
+[22:18:56] 
+[22:18:56] Filterscripts
+[22:18:56] ---------------
+[22:18:56]   Loaded 0 filterscripts.
+
+[22:18:56] Povezivanje baze...
+[22:18:56] Baza uspjesno povezana!
+[22:18:56] Number of vehicle models: 0
+[22:18:56] Ucitavanje vozila...
+[22:18:56] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[22:18:56] Ucitano vozila: 1
+[22:18:56] Ucitavanje kuca...
+[22:18:56] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[22:18:56] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[22:18:56] Ucitano kuca: 2
+[22:18:56] Ucitavanje koordinata...
+[22:18:56] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[22:18:56] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[22:18:56] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[22:18:56] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[22:18:56] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[22:18:56] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[22:18:56] Ucitavanje koordinata zavrseno!
+[22:19:16] [connection] 127.0.0.1:50989 requests connection cookie.
+[22:19:17] [connection] incoming connection: 127.0.0.1:50989 id: 0
+[22:19:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[22:19:19] Dohvacanje podataka...
+[22:20:47] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:34:42] filterscripts = ""  (string)
+[14:34:42] 
+[14:34:42] Server Plugins
+[14:34:42] --------------
+[14:34:42]  Loading plugin: sscanf
+[14:34:42] 
+
+[14:34:42]  ===============================
+
+[14:34:42]       sscanf plugin loaded.     
+
+[14:34:42]          Version:  2.8.2        
+
+[14:34:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:34:42]  ===============================
+
+[14:34:42]   Loaded.
+[14:34:42]  Loading plugin: mysql
+[14:34:42] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[14:34:42]   Loaded.
+[14:34:42]  Loaded 2 plugins.
+
+[14:34:42] 
+[14:34:42] Filterscripts
+[14:34:42] ---------------
+[14:34:42]   Loaded 0 filterscripts.
+
+[14:34:42] Povezivanje baze...
+[14:34:42] Baza uspjesno povezana!
+[14:34:42] Number of vehicle models: 0
+[14:34:42] Ucitavanje vozila...
+[14:34:42] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[14:34:42] Ucitano vozila: 1
+[14:34:42] Ucitavanje kuca...
+[14:34:42] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[14:34:42] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[14:34:42] Ucitano kuca: 2
+[14:34:42] Ucitavanje koordinata...
+[14:34:42] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[14:34:42] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[14:34:42] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[14:34:42] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[14:34:42] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[14:34:42] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[14:34:42] Ucitavanje koordinata zavrseno!
+[14:35:13] [connection] 127.0.0.1:64839 requests connection cookie.
+[14:35:14] [connection] incoming connection: 127.0.0.1:64839 id: 0
+[14:35:14] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:35:29] Dohvacanje podataka...
+[14:37:27] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:40:03] filterscripts = ""  (string)
+[14:40:03] 
+[14:40:03] Server Plugins
+[14:40:03] --------------
+[14:40:03]  Loading plugin: sscanf
+[14:40:03] 
+
+[14:40:03]  ===============================
+
+[14:40:03]       sscanf plugin loaded.     
+
+[14:40:03]          Version:  2.8.2        
+
+[14:40:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:40:03]  ===============================
+
+[14:40:03]   Loaded.
+[14:40:03]  Loading plugin: mysql
+[14:40:03] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[14:40:03]   Loaded.
+[14:40:03]  Loaded 2 plugins.
+
+[14:40:03] 
+[14:40:03] Filterscripts
+[14:40:03] ---------------
+[14:40:03]   Loaded 0 filterscripts.
+
+[14:40:03] Povezivanje baze...
+[14:40:03] Baza uspjesno povezana!
+[14:40:03] Number of vehicle models: 0
+[14:40:03] Ucitavanje vozila...
+[14:40:03] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[14:40:03] Ucitano vozila: 1
+[14:40:03] Ucitavanje kuca...
+[14:40:03] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[14:40:03] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[14:40:03] Ucitano kuca: 2
+[14:40:03] Ucitavanje koordinata...
+[14:40:03] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[14:40:03] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[14:40:03] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[14:40:03] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[14:40:03] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[14:40:03] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[14:40:03] Ucitavanje koordinata zavrseno!
+[14:40:27] [connection] 127.0.0.1:62467 requests connection cookie.
+[14:40:28] [connection] incoming connection: 127.0.0.1:62467 id: 0
+[14:40:28] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:40:31] Dohvacanje podataka...
+[14:40:48] Ulaz u kuæi ID: 1 LEVEL: 1 InteriorID: 15, X:223.044006, Y:1289.260009, Z:1082.199951
+[14:41:00] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:56] filterscripts = ""  (string)
+[14:43:56] 
+[14:43:56] Server Plugins
+[14:43:56] --------------
+[14:43:56]  Loading plugin: sscanf
+[14:43:56] 
+
+[14:43:56]  ===============================
+
+[14:43:56]       sscanf plugin loaded.     
+
+[14:43:56]          Version:  2.8.2        
+
+[14:43:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:43:56]  ===============================
+
+[14:43:56]   Loaded.
+[14:43:56]  Loading plugin: mysql
+[14:43:56] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[14:43:56]   Loaded.
+[14:43:56]  Loaded 2 plugins.
+
+[14:43:56] 
+[14:43:56] Filterscripts
+[14:43:56] ---------------
+[14:43:56]   Loaded 0 filterscripts.
+
+[14:43:56] Povezivanje baze...
+[14:43:56] Baza uspjesno povezana!
+[14:43:56] Number of vehicle models: 0
+[14:43:56] Ucitavanje vozila...
+[14:43:56] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[14:43:56] Ucitano vozila: 1
+[14:43:56] Ucitavanje kuca...
+[14:43:56] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[14:43:56] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[14:43:56] Ucitano kuca: 2
+[14:43:56] Ucitavanje koordinata...
+[14:43:56] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[14:43:56] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[14:43:56] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[14:43:56] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[14:43:56] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[14:43:56] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[14:43:56] Ucitavanje koordinata zavrseno!
+[14:44:16] [connection] 127.0.0.1:63425 requests connection cookie.
+[14:44:17] [connection] incoming connection: 127.0.0.1:63425 id: 0
+[14:44:17] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:44:26] Dohvacanje podataka...
+[14:44:45] Ulaz u kuæi ID: 1 LEVEL: 1 InteriorID: 15, X:295.139007, Y:1474.469970, Z:1080.520019
+[14:44:48] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:45:30] filterscripts = ""  (string)
+[14:45:30] 
+[14:45:30] Server Plugins
+[14:45:30] --------------
+[14:45:30]  Loading plugin: sscanf
+[14:45:30] 
+
+[14:45:30]  ===============================
+
+[14:45:30]       sscanf plugin loaded.     
+
+[14:45:30]          Version:  2.8.2        
+
+[14:45:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:45:30]  ===============================
+
+[14:45:30]   Loaded.
+[14:45:30]  Loading plugin: mysql
+[14:45:30] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[14:45:30]   Loaded.
+[14:45:30]  Loaded 2 plugins.
+
+[14:45:30] 
+[14:45:30] Filterscripts
+[14:45:30] ---------------
+[14:45:30]   Loaded 0 filterscripts.
+
+[14:45:30] Povezivanje baze...
+[14:45:30] Baza uspjesno povezana!
+[14:45:30] Number of vehicle models: 0
+[14:45:30] Ucitavanje vozila...
+[14:45:30] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[14:45:30] Ucitano vozila: 1
+[14:45:30] Ucitavanje kuca...
+[14:45:30] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[14:45:30] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[14:45:30] Ucitano kuca: 2
+[14:45:30] Ucitavanje koordinata...
+[14:45:30] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[14:45:30] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[14:45:30] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[14:45:30] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[14:45:30] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[14:45:30] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[14:45:30] Ucitavanje koordinata zavrseno!
+[14:45:49] [connection] 127.0.0.1:60942 requests connection cookie.
+[14:45:50] [connection] incoming connection: 127.0.0.1:60942 id: 0
+[14:45:50] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:45:55] Dohvacanje podataka...
+[14:47:33] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:49:47] filterscripts = ""  (string)
+[14:49:47] 
+[14:49:47] Server Plugins
+[14:49:47] --------------
+[14:49:47]  Loading plugin: sscanf
+[14:49:47] 
+
+[14:49:47]  ===============================
+
+[14:49:47]       sscanf plugin loaded.     
+
+[14:49:47]          Version:  2.8.2        
+
+[14:49:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:49:47]  ===============================
+
+[14:49:47]   Loaded.
+[14:49:47]  Loading plugin: mysql
+[14:49:47] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[14:49:47]   Loaded.
+[14:49:47]  Loaded 2 plugins.
+
+[14:49:47] 
+[14:49:47] Filterscripts
+[14:49:47] ---------------
+[14:49:47]   Loaded 0 filterscripts.
+
+[14:49:47] Povezivanje baze...
+[14:49:47] Baza uspjesno povezana!
+[14:49:47] Number of vehicle models: 0
+[14:49:47] Ucitavanje vozila...
+[14:49:47] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[14:49:47] Ucitano vozila: 1
+[14:49:47] Ucitavanje kuca...
+[14:49:47] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[14:49:47] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[14:49:47] Ucitano kuca: 2
+[14:49:47] Ucitavanje koordinata...
+[14:49:47] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[14:49:47] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[14:49:47] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[14:49:47] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[14:49:47] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[14:49:47] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[14:49:47] Ucitavanje koordinata zavrseno!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:50:47] filterscripts = ""  (string)
+[14:50:47] 
+[14:50:47] Server Plugins
+[14:50:47] --------------
+[14:50:47]  Loading plugin: sscanf
+[14:50:47] 
+
+[14:50:47]  ===============================
+
+[14:50:47]       sscanf plugin loaded.     
+
+[14:50:47]          Version:  2.8.2        
+
+[14:50:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:50:47]  ===============================
+
+[14:50:47]   Loaded.
+[14:50:47]  Loading plugin: mysql
+[14:50:47] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[14:50:47]   Loaded.
+[14:50:47]  Loaded 2 plugins.
+
+[14:50:47] 
+[14:50:47] Filterscripts
+[14:50:47] ---------------
+[14:50:47]   Loaded 0 filterscripts.
+
+[14:50:47] Povezivanje baze...
+[14:50:47] Baza uspjesno povezana!
+[14:50:47] Number of vehicle models: 0
+[14:50:47] Ucitavanje vozila...
+[14:50:47] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[14:50:47] Ucitano vozila: 1
+[14:50:47] Ucitavanje kuca...
+[14:50:47] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[14:50:47] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[14:50:47] Ucitano kuca: 2
+[14:50:47] Ucitavanje koordinata...
+[14:50:47] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[14:50:47] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[14:50:47] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[14:50:47] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[14:50:47] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[14:50:47] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[14:50:47] Ucitavanje koordinata zavrseno!
+[14:51:07] [connection] 127.0.0.1:54965 requests connection cookie.
+[14:51:08] [connection] incoming connection: 127.0.0.1:54965 id: 0
+[14:51:09] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[14:51:16] Dohvacanje podataka...
+[14:52:24] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:35:43] filterscripts = ""  (string)
+[16:35:43] 
+[16:35:43] Server Plugins
+[16:35:43] --------------
+[16:35:43]  Loading plugin: sscanf
+[16:35:43] 
+
+[16:35:43]  ===============================
+
+[16:35:43]       sscanf plugin loaded.     
+
+[16:35:43]          Version:  2.8.2        
+
+[16:35:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:35:43]  ===============================
+
+[16:35:43]   Loaded.
+[16:35:43]  Loading plugin: mysql
+[16:35:43] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[16:35:43]   Loaded.
+[16:35:43]  Loaded 2 plugins.
+
+[16:35:43] 
+[16:35:43] Filterscripts
+[16:35:43] ---------------
+[16:35:43]   Loaded 0 filterscripts.
+
+[16:35:43] Povezivanje baze...
+[16:35:43] Baza uspjesno povezana!
+[16:35:43] Number of vehicle models: 0
+[16:35:43] Ucitavanje vozila...
+[16:35:43] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[16:35:43] Ucitano vozila: 1
+[16:35:43] Ucitavanje kuca...
+[16:35:43] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[16:35:43] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[16:35:43] Ucitano kuca: 2
+[16:35:43] Ucitavanje koordinata...
+[16:35:43] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[16:35:43] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[16:35:43] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[16:35:43] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[16:35:43] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[16:35:43] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[16:35:43] Ucitavanje koordinata zavrseno!
+[16:36:04] [connection] 127.0.0.1:51458 requests connection cookie.
+[16:36:05] [connection] incoming connection: 127.0.0.1:51458 id: 0
+[16:36:05] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[16:36:08] Dohvacanje podataka...
+[16:36:10] Dohvacanje podataka...
+[16:41:04] Stvorena nova kuca! 'ZaProdaju', 'Nitko', '-2058.997070', '889.365783', '61.856685', '235.509002', '1189.170043', '1080.339965', '560000', '0', '3', '4'
+[16:43:12] Stvorena nova kuca! 'ZaProdajuZaProdaju', 'NitkoNitko', '-2099.570312', '897.359313', '76.710937', '225.630996', '1022.479980', '1084.069946', '1000000', '0', '2', '5'
+[16:43:19] [part] Hawk_Gotti has left the server (0:1)
+[16:43:43] [connection] 127.0.0.1:59334 requests connection cookie.
+[16:43:44] [connection] incoming connection: 127.0.0.1:59334 id: 0
+[16:43:44] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[16:43:47] Dohvacanje podataka...
+[16:44:25] Stvorena nova kuca! 'ZaProdajuZaProdajuZaProdaju', 'NitkoNitkoNitko', '-1581.704589', '956.117004', '7.187500', '223.044006', '1289.260009', '1082.199951', '150000', '0', '1', '1'
+[16:44:30] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:47:28] filterscripts = ""  (string)
+[16:47:28] 
+[16:47:28] Server Plugins
+[16:47:28] --------------
+[16:47:28]  Loading plugin: sscanf
+[16:47:28] 
+
+[16:47:28]  ===============================
+
+[16:47:28]       sscanf plugin loaded.     
+
+[16:47:28]          Version:  2.8.2        
+
+[16:47:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:47:28]  ===============================
+
+[16:47:28]   Loaded.
+[16:47:28]  Loading plugin: mysql
+[16:47:28] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[16:47:28]   Loaded.
+[16:47:28]  Loaded 2 plugins.
+
+[16:47:28] 
+[16:47:28] Filterscripts
+[16:47:28] ---------------
+[16:47:28]   Loaded 0 filterscripts.
+
+[16:47:28] Povezivanje baze...
+[16:47:28] Baza uspjesno povezana!
+[16:47:28] Number of vehicle models: 0
+[16:47:28] Ucitavanje vozila...
+[16:47:28] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[16:47:28] Ucitano vozila: 1
+[16:47:28] Ucitavanje kuca...
+[16:47:28] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[16:47:28] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[16:47:28] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[16:47:28] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdajuZaProdaju
+[16:47:28] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: ZaProdajuZaProdajuZaProdaju
+[16:47:28] Ucitano kuca: 5
+[16:47:28] Ucitavanje koordinata...
+[16:47:28] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[16:47:28] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[16:47:28] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[16:47:28] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[16:47:28] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[16:47:28] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[16:47:28] Ucitavanje koordinata zavrseno!
+[16:47:47] [connection] 127.0.0.1:63870 requests connection cookie.
+[16:47:48] [connection] incoming connection: 127.0.0.1:63870 id: 0
+[16:47:49] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[16:47:51] Dohvacanje podataka...
+[16:48:45] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:35:25] filterscripts = ""  (string)
+[17:35:25] 
+[17:35:25] Server Plugins
+[17:35:25] --------------
+[17:35:25]  Loading plugin: sscanf
+[17:35:25] 
+
+[17:35:25]  ===============================
+
+[17:35:25]       sscanf plugin loaded.     
+
+[17:35:25]          Version:  2.8.2        
+
+[17:35:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:35:25]  ===============================
+
+[17:35:25]   Loaded.
+[17:35:25]  Loading plugin: mysql
+[17:35:25] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:35:25]   Loaded.
+[17:35:25]  Loaded 2 plugins.
+
+[17:35:25] 
+[17:35:25] Filterscripts
+[17:35:25] ---------------
+[17:35:25]   Loaded 0 filterscripts.
+
+[17:35:25] Povezivanje baze...
+[17:35:25] Baza uspjesno povezana!
+[17:35:25] Number of vehicle models: 0
+[17:35:25] Ucitavanje vozila...
+[17:35:25] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[17:35:25] Ucitano vozila: 1
+[17:35:25] Ucitavanje kuca...
+[17:35:25] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:35:25] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[17:35:25] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[17:35:25] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdaju
+[17:35:25] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: ZaProdaju
+[17:35:25] Ucitano kuca: 5
+[17:35:25] Ucitavanje koordinata...
+[17:35:25] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[17:35:25] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[17:35:25] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[17:35:25] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[17:35:25] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[17:35:25] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[17:35:25] Ucitavanje koordinata zavrseno!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:36:05] filterscripts = ""  (string)
+[17:36:05] 
+[17:36:05] Server Plugins
+[17:36:05] --------------
+[17:36:05]  Loading plugin: sscanf
+[17:36:05] 
+
+[17:36:05]  ===============================
+
+[17:36:05]       sscanf plugin loaded.     
+
+[17:36:05]          Version:  2.8.2        
+
+[17:36:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:36:05]  ===============================
+
+[17:36:05]   Loaded.
+[17:36:05]  Loading plugin: mysql
+[17:36:05] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:36:05]   Loaded.
+[17:36:05]  Loaded 2 plugins.
+
+[17:36:05] 
+[17:36:05] Filterscripts
+[17:36:05] ---------------
+[17:36:05]   Loaded 0 filterscripts.
+
+[17:36:05] Povezivanje baze...
+[17:36:05] Baza uspjesno povezana!
+[17:36:05] Number of vehicle models: 0
+[17:36:05] Ucitavanje vozila...
+[17:36:05] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[17:36:05] Ucitano vozila: 1
+[17:36:05] Ucitavanje kuca...
+[17:36:05] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:36:05] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: ZaProdaju
+[17:36:05] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[17:36:05] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdaju
+[17:36:05] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: ZaProdaju
+[17:36:05] Ucitano kuca: 5
+[17:36:05] Ucitavanje koordinata...
+[17:36:05] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[17:36:05] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[17:36:05] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[17:36:05] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[17:36:05] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[17:36:05] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[17:36:05] Ucitavanje koordinata zavrseno!
+[17:36:26] [connection] 127.0.0.1:54569 requests connection cookie.
+[17:36:27] [connection] incoming connection: 127.0.0.1:54569 id: 0
+[17:36:27] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:36:31] Dohvacanje podataka...
+[17:39:41] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:11:26] filterscripts = ""  (string)
+[17:11:26] 
+[17:11:26] Server Plugins
+[17:11:26] --------------
+[17:11:26]  Loading plugin: sscanf
+[17:11:26] 
+
+[17:11:26]  ===============================
+
+[17:11:26]       sscanf plugin loaded.     
+
+[17:11:26]          Version:  2.8.2        
+
+[17:11:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:11:26]  ===============================
+
+[17:11:26]   Loaded.
+[17:11:26]  Loading plugin: mysql
+[17:11:26] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:11:26]   Loaded.
+[17:11:26]  Loaded 2 plugins.
+
+[17:11:26] 
+[17:11:26] Filterscripts
+[17:11:26] ---------------
+[17:11:26]   Loaded 0 filterscripts.
+
+[17:11:26] Povezivanje baze...
+[17:11:26] Baza uspjesno povezana!
+[17:11:26] Number of vehicle models: 0
+[17:11:26] Ucitavanje vozila...
+[17:11:26] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[17:11:26] Ucitano vozila: 1
+[17:11:26] Ucitavanje kuca...
+[17:11:26] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:11:26] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: Hawk_GottiZaProdaju
+[17:11:26] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[17:11:26] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdaju
+[17:11:26] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: ZaProdaju
+[17:11:26] Ucitano kuca: 5
+[17:11:26] Ucitavanje koordinata...
+[17:11:26] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[17:11:26] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[17:11:26] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[17:11:26] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[17:11:26] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[17:11:26] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[17:11:26] Ucitavanje koordinata zavrseno!
+[17:11:56] [connection] 127.0.0.1:53453 requests connection cookie.
+[17:11:57] [connection] incoming connection: 127.0.0.1:53453 id: 0
+[17:11:57] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:12:00] Dohvacanje podataka...
+[17:14:51] [part] Hawk_Gotti has left the server (0:1)
+[17:15:32] [connection] 127.0.0.1:61397 requests connection cookie.
+[17:15:33] [connection] incoming connection: 127.0.0.1:61397 id: 0
+[17:15:34] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:15:37] Dohvacanje podataka...
+[17:15:42] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:22:20] filterscripts = ""  (string)
+[17:22:20] 
+[17:22:20] Server Plugins
+[17:22:20] --------------
+[17:22:20]  Loading plugin: sscanf
+[17:22:20] 
+
+[17:22:20]  ===============================
+
+[17:22:20]       sscanf plugin loaded.     
+
+[17:22:20]          Version:  2.8.2        
+
+[17:22:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:22:20]  ===============================
+
+[17:22:20]   Loaded.
+[17:22:20]  Loading plugin: mysql
+[17:22:20] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:22:20]   Loaded.
+[17:22:20]  Loaded 2 plugins.
+
+[17:22:20] 
+[17:22:20] Filterscripts
+[17:22:20] ---------------
+[17:22:20]   Loaded 0 filterscripts.
+
+[17:22:20] Povezivanje baze...
+[17:22:20] Baza uspjesno povezana!
+[17:22:20] Number of vehicle models: 0
+[17:22:20] Ucitavanje vozila...
+[17:22:20] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[17:22:20] Ucitano vozila: 1
+[17:22:20] Ucitavanje kuca...
+[17:22:20] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:22:20] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: Hawk_Gotti
+[17:22:20] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[17:22:20] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdaju
+[17:22:20] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:22:20] Ucitano kuca: 5
+[17:22:20] Ucitavanje koordinata...
+[17:22:20] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[17:22:20] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[17:22:20] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[17:22:20] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[17:22:20] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[17:22:20] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[17:22:20] Ucitavanje koordinata zavrseno!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:23:57] filterscripts = ""  (string)
+[17:23:57] 
+[17:23:57] Server Plugins
+[17:23:57] --------------
+[17:23:57]  Loading plugin: sscanf
+[17:23:57] 
+
+[17:23:57]  ===============================
+
+[17:23:57]       sscanf plugin loaded.     
+
+[17:23:57]          Version:  2.8.2        
+
+[17:23:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:23:57]  ===============================
+
+[17:23:57]   Loaded.
+[17:23:57]  Loading plugin: mysql
+[17:23:57] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:23:57]   Loaded.
+[17:23:57]  Loaded 2 plugins.
+
+[17:23:57] 
+[17:23:57] Filterscripts
+[17:23:57] ---------------
+[17:23:57]   Loaded 0 filterscripts.
+
+[17:23:57] Povezivanje baze...
+[17:23:57] Baza uspjesno povezana!
+[17:23:57] Number of vehicle models: 0
+[17:23:57] Ucitavanje vozila...
+[17:23:57] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[17:23:57] Ucitano vozila: 1
+[17:23:57] Ucitavanje kuca...
+[17:23:57] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:23:57] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: Hawk_Gotti
+[17:23:57] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[17:23:57] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdaju
+[17:23:57] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:23:57] Ucitano kuca: 5
+[17:23:57] Ucitavanje koordinata...
+[17:23:57] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[17:23:57] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[17:23:57] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[17:23:57] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[17:23:57] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[17:23:57] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[17:23:57] Ucitavanje koordinata zavrseno!
+[17:24:22] [connection] 127.0.0.1:59740 requests connection cookie.
+[17:24:23] [connection] incoming connection: 127.0.0.1:59740 id: 0
+[17:24:23] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:24:26] [IGRAC-LOGIN]Dohvacanje podataka...
+[17:24:26] [IGRAC-LOGIN]Uspjesno->Spawn
+[17:26:09] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:27:45] filterscripts = ""  (string)
+[17:27:45] 
+[17:27:45] Server Plugins
+[17:27:45] --------------
+[17:27:45]  Loading plugin: sscanf
+[17:27:45] 
+
+[17:27:45]  ===============================
+
+[17:27:45]       sscanf plugin loaded.     
+
+[17:27:45]          Version:  2.8.2        
+
+[17:27:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:27:45]  ===============================
+
+[17:27:45]   Loaded.
+[17:27:45]  Loading plugin: mysql
+[17:27:45] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:27:45]   Loaded.
+[17:27:45]  Loaded 2 plugins.
+
+[17:27:45] 
+[17:27:45] Filterscripts
+[17:27:45] ---------------
+[17:27:45]   Loaded 0 filterscripts.
+
+[17:27:45] Povezivanje baze...
+[17:27:45] Baza uspjesno povezana!
+[17:27:45] Number of vehicle models: 0
+[17:27:46] Ucitavanje vozila...
+[17:27:46] Vozilo spawnano, ID=1, Model=411, Vlasnik=Hawk_Gotti, Suvlasnik=Nitko
+[17:27:46] Ucitano vozila: 1
+[17:27:46] Ucitavanje kuca...
+[17:27:46] Kuca kreirana na kordinatama X: -1581.410034, Y: 947.880981, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:27:46] Kuca kreirana na kordinatama X: -2018.170043, Y: 970.111999, Z: 45.445301, vlasnik: Hawk_Gotti
+[17:27:46] Kuca kreirana na kordinatama X: -2059.000000, Y: 889.366027, Z: 61.856700, vlasnik: ZaProdaju
+[17:27:46] Kuca kreirana na kordinatama X: -2099.570068, Y: 897.359008, Z: 76.710899, vlasnik: ZaProdaju
+[17:27:46] Kuca kreirana na kordinatama X: -1581.699951, Y: 956.117004, Z: 7.187500, vlasnik: Hawk_Gotti
+[17:27:46] Ucitano kuca: 5
+[17:27:46] Ucitavanje koordinata...
+[17:27:46] Ucitane koordiante kuce levela:0, koordinate x: 385.803985, koordinate y: 1471.770019, koordinate z: 1080.209960
+[17:27:46] Ucitane koordiante kuce levela:1, koordinate x: 223.044006, koordinate y: 1289.260009, koordinate z: 1082.199951
+[17:27:46] Ucitane koordiante kuce levela:2, koordinate x: 295.139007, koordinate y: 1474.469970, koordinate z: 1080.520019
+[17:27:46] Ucitane koordiante kuce levela:3, koordinate x: 225.757003, koordinate y: 1240.000000, koordinate z: 1082.150024
+[17:27:46] Ucitane koordiante kuce levela:4, koordinate x: 235.509002, koordinate y: 1189.170043, koordinate z: 1080.339965
+[17:27:46] Ucitane koordiante kuce levela:5, koordinate x: 225.630996, koordinate y: 1022.479980, koordinate z: 1084.069946
+[17:27:46] Ucitavanje koordinata zavrseno!
+[17:28:05] [connection] 127.0.0.1:65362 requests connection cookie.
+[17:28:06] [connection] incoming connection: 127.0.0.1:65362 id: 0
+[17:28:07] [join] Hawk_Gotti has joined the server (0:127.0.0.1)
+[17:28:09] [IGRAC-LOGIN]Dohvacanje podataka...
+[17:28:09] [IGRAC-LOGIN]Uspjesno->Spawn
+[17:30:02] [IGRAC-ODJAVA]Hawk_Gotti se odjavio
+[17:30:02] [part] Hawk_Gotti has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:57] filterscripts = ""  (string)
+[17:08:57] 
+[17:08:57] Server Plugins
+[17:08:57] --------------
+[17:08:57]  Loading plugin: sscanf
+[17:08:57] 
+
+[17:08:57]  ===============================
+
+[17:08:57]       sscanf plugin loaded.     
+
+[17:08:57]          Version:  2.8.2        
+
+[17:08:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:08:57]  ===============================
+
+[17:08:57]   Loaded.
+[17:08:57]  Loading plugin: mysql
+[17:08:57] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[17:08:57]   Loaded.
+[17:08:57]  Loaded 2 plugins.
+
+[17:08:57] 
+[17:08:57] Filterscripts
+[17:08:57] ---------------
+[17:08:57]   Loaded 0 filterscripts.
+
+[17:08:58] Povezivanje baze...
+[17:08:58] Baza uspjesno povezana!
+[17:08:58] Number of vehicle models: 0
