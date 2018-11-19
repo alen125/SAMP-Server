@@ -1,6 +1,6 @@
 /*
 
-Skripta zapo�ena 6.12.2017
+Skripta zapocena 6.12.2017
 
 ---------------------  TODO  -------------------------------
 	=House system
