@@ -4,23 +4,15 @@ Skripta zapo�ena 6.12.2017
 
 ---------------------  TODO  -------------------------------
 	=House system
-	    ->Kupnja kuce
-			-Novac se ne oduzima
-			-Ime se duplicira, treba obrisat prije(BUG)
-			-Neispravan prikaz 3DTextLabela(BUG)
-	=Business System
-	=Jobs System
-
-*/
 
 #include <a_samp>
 #include <a_mysql>
 #include <sscanf2>
 #define dcmd(%1,%2,%3) if (!strcmp((%3)[1], #%1, true, (%2)) && ((((%3)[(%2) + 1] == '\0') && (dcmd_%1(playerid, ""))) || (((%3)[(%2) + 1] == ' ') && (dcmd_%1(playerid, (%3)[(%2) + 2]))))) return 1
 
-#define MYSQL_HOST	"localhost"
-#define MYSQL_USER	"root"
-#define MYSQL_DB	"nullRP"
+#define MYSQL_HOST	""
+#define MYSQL_USER	""
+#define MYSQL_DB	""
 #define MYSQL_PASS 	""
 
 #define MAX_HOUSES 500
